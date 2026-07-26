@@ -1,0 +1,601 @@
+evento_risco_id,transacao_id,score_risco,nivel_risco,regra_acionada,decisao,data_hora_evento,detalhes
+dc09681d-dfc8-46b2-b6fc-b403843f4c57,92e1f430-7dbf-4a4c-a62e-9a94b8949ecc,92.41,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-16T10:20:55,Exercitationem accusantium molestiae nostrum cumque laudantium nam.
+bb9eb669-a67b-409a-9790-61063fc3d7fd,ee60b27a-140f-4aa7-a989-e3fc90e23189,19.68,BAIXO,VALOR_ATIPICO,REVISAR,2026-03-18T20:29:12,Hic veniam excepturi occaecati alias.
+0e8bc0e5-f362-4556-aa6b-6c9fdcec9a7b,cb630c3c-1fac-4b07-805f-d2d077da02e7,8.46,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-21T02:04:56,Voluptatum aliquid itaque deleniti dolorem quisquam excepturi.
+0d4207db-eb2d-4889-aa22-83b1422f53f1,114038c5-de40-44ea-9fca-0763efa54135,21.22,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-02-15T05:59:03,Soluta commodi incidunt hic.
+6f461365-0fe8-4474-8c30-0cd2d5b8d66c,ca0239e1-7e15-4b1b-bf49-68d40d8f6e4d,61.98,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-19T01:43:59,Eum ad quam magnam eius fugiat pariatur dolores.
+14f94626-342f-4120-9125-f9e93e9a442a,58354a0c-5fc3-4531-85df-71708b8fdeac,29.3,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-04-09T00:55:04,Tenetur alias dolor aspernatur porro.
+c46a1975-ba11-4667-a797-0ccb9d30d907,4b3746a2-da19-41d1-995f-efad888c1814,30.57,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-02T17:00:11,Molestiae alias sed amet molestiae mollitia modi doloribus totam.
+45592cac-fde7-4f12-ae61-841b8af5564b,71b6cae2-b2d3-4a74-891b-97a44ad346ca,44.93,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-19T17:23:33,Expedita laudantium commodi aliquid assumenda quidem dolores officiis error.
+78d2f869-de93-4cde-b20c-de2467f24bab,954261ee-464e-4450-a263-74628406dee1,46.42,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-07-04T19:26:31,Omnis laudantium recusandae ipsam voluptatibus.
+e48fe386-166f-4778-87d0-1a82e4126974,e264d6bb-c6f0-418e-9150-65db22207657,53.65,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-02T01:26:36,Officiis sed natus beatae voluptate quis itaque.
+10eb3690-7220-4ada-850a-c0d8629e262c,9204fac4-293a-4a24-97b5-f62e9ed91884,20.56,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-07-10T15:03:25,Adipisci architecto quibusdam cupiditate consequuntur quos impedit doloribus eaque.
+47fabc62-6d59-434e-91d9-508adce07e7b,fab0b717-38b7-4e99-bafa-631b7343b832,78.85,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-05-11T19:17:21,Dicta similique reiciendis vero sint praesentium eius facere cupiditate impedit.
+bf0796ae-82e4-4136-9fb9-ff61f34acb98,e50ee8b5-5f8b-43aa-a779-a4386d8ed14c,12.29,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-03-19T02:11:44,Vero repudiandae velit reprehenderit quia quaerat inventore.
+548dd0ad-6a0a-4f6e-93ab-f133e4869db4,60bd01e8-06a8-4b87-b05c-ce6ba9ecb4b3,26.95,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-19T02:59:35,Ducimus cupiditate explicabo sint similique hic.
+1004fc25-0d75-4cb5-b535-c635886bd85b,e137d952-2a10-4dc3-9360-973a4027a759,60.7,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-03-05T16:08:02,Sit rem minima magnam harum omnis ea dignissimos.
+a3f75acc-d4c7-4eda-9c3d-df7a4258d321,c859f922-ce10-4234-ad45-e53e671427b0,31.15,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-21T06:40:37,Natus maxime repellendus perferendis cum sint libero dolorem voluptatibus assumenda.
+ded385ee-78b7-4908-ab46-e8cb3436f8d9,4cd152fc-4216-430c-91db-66a524241b36,5.93,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-03-16T14:08:35,Magni dicta quis sint quae nobis nostrum provident aliquam laborum.
+6f48282f-d6fd-403c-a9e0-f8557d95b9a5,f4abac41-afbd-4683-a93d-1c7577c33ab8,10.87,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-02-22T04:48:40,Veritatis dignissimos dolorum inventore molestiae voluptas provident itaque.
+bd0e0ffc-03fa-4c22-aa80-3e7beb8a79f3,dc84ddde-2cef-4cea-902f-143c53848fdb,84.29,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-14T23:06:29,Repellat architecto sapiente incidunt quis placeat cum.
+6b6cce78-5393-4b67-b155-262ee29b57da,460da5e8-7a4c-4107-9ea4-58ac37876f09,24.76,BAIXO,VALOR_ATIPICO,APROVAR,2026-06-01T20:28:54,Aspernatur perferendis maiores ullam temporibus ipsum doloribus quos.
+961ae786-22bc-455f-b22b-420d260474ba,8605fd0a-ee7b-4916-9b00-efd96d97d3f0,15.32,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-27T13:12:14,Eligendi minus rem voluptatem adipisci.
+95ce69e4-b42b-46a8-b13e-50340fb7c310,780c271b-8f7c-4930-b95b-3de76c5fd243,7.09,BAIXO,VALOR_ATIPICO,REVISAR,2026-05-13T05:20:50,Quasi et exercitationem ipsum dolor exercitationem qui mollitia iusto.
+8649f4a5-3b84-4a73-8601-8a068e02e80a,85f457ed-5e43-4cad-80cd-dd354f6b42f4,51.89,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-07-18T08:14:43,Repudiandae laboriosam facilis animi corrupti corrupti.
+8f478b9e-42b3-406e-808c-29e18418fe5e,38216853-d24f-4c96-ab63-2663c7344aa4,64.75,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-07-08T20:24:51,Tempora esse rem dignissimos ipsum reiciendis molestias.
+43e4ccc4-8c7e-4223-abef-8de370db0144,aca84262-16f4-4ba5-9ba4-1ebe8417169d,63.56,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-20T12:15:13,Sapiente possimus deserunt consequatur esse eligendi numquam tempora ipsum beatae.
+fa44916a-5f92-4d04-a277-a91a8b8b7931,485de262-ffd4-45ed-87ff-e1abfca8599f,21.76,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-02-15T06:45:00,Voluptate unde dolores sit eligendi in repudiandae eos.
+42067a22-4af1-4d96-becf-c4f4d9577e0f,b2d3d918-7246-4829-93c5-e221082a6ceb,50.38,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-03T02:04:17,Modi pariatur labore a labore.
+d69de65d-0b82-4006-a2cf-2b395ed2690d,0be48707-85ac-4456-99fc-84bcb3917a04,34.72,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-04-08T10:20:47,Consequatur suscipit sunt neque.
+68904d38-22a7-4d0d-8f15-5aead78984f6,80e8ee77-ddfe-49c0-ae33-72bcdab6d0e5,24.19,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-07-21T22:30:04,Minima natus fugiat corporis perspiciatis asperiores tempora dolorum excepturi.
+c46a53dd-80fc-4343-a304-aaaccf25e309,4ab0fe50-3711-42b1-88e2-f74fb46d75f1,45.7,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-02-13T17:49:00,Facere numquam nam porro perspiciatis vitae ratione perspiciatis quisquam perferendis.
+53fcd199-ff49-4c2f-b137-3248f77d84bf,2a36cfa7-1ed9-45b2-b12a-d22d51b664eb,47.93,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-21T22:08:32,Eaque unde mollitia accusantium voluptates dicta.
+9ec7a6e0-61c3-4b24-9b56-6f0e2273d3d6,35f6325a-e9b5-46a1-b814-fcb509381469,80.15,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-03-23T06:58:19,Ut facilis hic veritatis placeat cumque.
+1a0a2e4f-0615-49c9-942b-574c54cc7655,6533479c-d16f-4c93-88c4-241e831aabd4,84.08,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-12T06:32:02,Quae fuga aspernatur harum.
+11b4fa34-51cf-474f-8c10-e05f3d5751c2,caae4b4b-6b41-4cce-b4d3-9d7c72ccc882,55.37,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-02-10T17:35:12,Cumque eos dicta a modi voluptas.
+c8d2944a-45d4-4f75-bca0-9f9cb6ec0077,f3488aa7-6c9a-4ce8-8b5b-5e266ae0ea62,76.91,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-05-26T05:24:49,Eaque voluptatum laudantium eius corporis modi nobis.
+2276a0e8-a381-4f6d-b991-581cb8b403d0,bef1f581-fffb-4fc1-9121-fe8b628e5d11,88.26,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-17T11:36:50,Illo occaecati exercitationem adipisci aliquam nisi laboriosam.
+13479a5f-d564-4bbb-9313-615dbbdeb672,6b0ac189-1e8c-486e-8098-0ef665a3425c,6.23,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-13T12:49:47,Ea dolorum ut sapiente voluptates doloremque provident consequatur quo doloremque.
+33c6fb98-3ea3-470b-bedc-3559e4c90b0f,3b841713-ba76-49d8-b8bd-3c026df38f70,46.67,MEDIO,VALOR_ATIPICO,REVISAR,2026-06-16T22:30:07,Optio voluptatibus suscipit ea nobis minima.
+1f71c2ca-63bf-4afd-ab23-017e8e767de7,1e4e6039-8aeb-41fb-8186-16ee8604011a,90.69,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-18T07:21:32,Mollitia laborum eius minus sit atque cupiditate.
+8ff58a9e-f604-4d64-8d2c-003fb59bc917,6ef46642-2afa-4a33-9080-65fff12c041c,7.59,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-26T22:44:11,Ea pariatur eaque dolorum perspiciatis aliquam repudiandae quibusdam cumque hic similique.
+ac9b5cce-8072-4e33-8770-4c76c7dc997d,367cb3b5-c266-4227-b6c0-bb7a01d8e7b7,56.79,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-06-06T00:54:35,Ullam ad et alias aspernatur.
+1a712543-e25e-48ae-9023-d513595584b1,2981ea39-3388-49ac-a679-051c53ffbffd,66.09,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-20T18:30:07,Earum voluptatum ea qui itaque minus nobis nisi architecto.
+b94d9b7c-66e3-4474-8975-924923567b7a,76f71f87-ec98-42cf-a9c6-107c86499068,91.81,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-15T18:26:18,Voluptatum pariatur eaque natus recusandae.
+d44c2a5d-cf53-4921-afc9-36780f3723ee,8d4302bc-4e62-4a9a-ada3-350539bad74f,66.72,MEDIO,VALOR_ATIPICO,REVISAR,2026-05-23T23:30:00,Suscipit unde fuga cumque beatae voluptate repudiandae cumque assumenda pariatur voluptatum.
+19a80de6-d751-411c-ab5b-40a481497c36,cf87addb-7de0-4f7c-9cae-ceaf7c9ea180,33.35,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-06-07T01:11:11,Incidunt distinctio eius est dicta.
+33683307-db2f-47e6-9cf9-99eab5c6d0bd,156aa12f-2dad-45fe-9c64-8d97d83194a7,43.85,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-15T00:41:23,Autem quidem velit voluptate veniam.
+5b985755-3af3-49db-9115-16f7f7f93394,4152fd66-9ca4-41a2-acd8-9eb6e88e7b7c,12.43,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-05T23:52:10,Eveniet in excepturi atque beatae rerum nam dignissimos aliquam vel.
+9c605bd3-5907-4091-a83a-25b8c92ff23c,a4f89caf-e785-4329-b637-7e3e37232dec,9.76,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-03-05T08:19:55,Minima voluptatum impedit dolore minus reprehenderit.
+1a285ef5-c896-4d58-bf20-99ea5ee8f5ed,a7dd2b32-3888-4591-8961-727e7b0e34b9,60.0,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-05T15:19:38,Labore quo eligendi corporis nesciunt eos veritatis.
+3d18fa87-9872-489b-90f3-15a73d3c7f82,754eb211-e2ea-40a8-9e92-70f3164cfc74,54.95,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-12T13:44:43,Necessitatibus excepturi a molestias commodi quas nisi quia culpa exercitationem quia.
+cb96b11e-ef19-4a84-b907-91c1087facc3,2e32d9ff-1c73-45fe-9a49-2138e394404e,59.57,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-04-23T10:32:12,In quia porro cumque nostrum voluptas saepe quam dolorem quae quis.
+bef079af-b4f5-4e0c-9dd4-b530d94c921a,f519fb5c-357e-4c91-accf-dc6797a5f324,8.66,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-06T07:31:05,Quas minus odio itaque quos.
+8c69c18b-0210-4cfa-b3d7-1e42d5f67599,9c0076f8-0187-45ce-8929-d0f1d89f8140,86.29,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-09T06:08:46,Vero vitae recusandae perferendis fugit maxime odio ullam eius dignissimos.
+83a0c302-55db-4f03-8020-957a547bacad,5974e940-2c24-41d8-b6dd-b1e15b0edca0,30.33,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-06T20:30:52,Harum ipsum eum a error ut beatae nam asperiores.
+074a1637-6bee-4f27-8ad9-788574bbf3bc,a9254080-62bb-4839-a71b-7bf144515b1e,46.22,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-03-13T09:39:02,Sunt laborum expedita odio eligendi excepturi quas a nam repudiandae.
+10606252-bca3-41be-8567-862ac0f5a9c7,8a562afb-4ea1-4129-bef3-87fa426b8d8e,8.34,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-06-15T11:42:26,Non optio placeat quisquam nihil sequi labore architecto aperiam nobis.
+03e1768d-ff2a-4028-bfa1-ebbaa5cc13a2,8ae974a5-8eca-4ab1-b10a-2f50a57059b3,84.36,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-23T19:55:36,Voluptates optio voluptatum voluptatem sed ratione voluptates eveniet.
+876b9720-9aa9-4a51-a5f0-db706ff1f73e,3c964cb4-aa14-41fa-a99d-4ed3a24c2382,95.7,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-25T03:50:16,Et quibusdam maiores nostrum eaque tempore totam.
+c83284b5-8508-410c-b8e0-3370462fb529,183d39ae-d8d8-4bca-8ffb-70137e87e937,31.01,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-07-06T23:43:07,Architecto fuga ducimus possimus quod expedita debitis dolorem.
+35ef3b5c-7094-4cc2-8a4e-ba8dcc67264d,cd989df9-9f38-4a69-bc19-f51c39a19417,72.43,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-04-16T06:55:47,Consectetur magni voluptates enim reiciendis tenetur.
+3607dacb-b783-468b-ada8-e1d72c7b6b1b,527a344e-e0ce-4877-b1ba-f60c625e5239,72.88,MEDIO,VALOR_ATIPICO,APROVAR,2026-02-05T02:39:36,Accusamus minus id asperiores illum illo ipsa rem eligendi minus.
+2bbe5786-d6f5-432b-979c-bb06d63ef4ab,d848ae6d-edbb-44d4-8be2-1afdcef5afce,80.14,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-02-23T10:53:32,Assumenda harum cupiditate tempore est praesentium qui dolorum ex delectus suscipit.
+c7c2001c-6c48-47bc-8f29-6751f385d1a4,a4431c41-295b-4ac8-be04-1af2d85159cd,60.59,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-14T07:30:13,Dolore dolore quia sit nobis corporis aut veniam.
+ca9f9cc9-0d6d-49d9-9ee8-450552c22b84,f662d7df-4362-48a6-9caf-390c04c215c1,12.3,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-09T12:53:17,Fuga omnis amet consequatur doloribus enim perspiciatis quibusdam nobis.
+c5cb0330-ceba-4d87-97fd-feaf771bc75f,a92e57b3-c14d-4d55-b6cb-4a4c4e2fe945,22.66,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-07T06:51:24,Ipsum ducimus eum ut consectetur repellendus sed ullam.
+551b8754-55e7-40a6-bbea-c5e75f0d65ec,8be8bf5f-bb9b-4517-8361-550dcffadc33,38.64,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-12T00:24:39,Temporibus blanditiis esse ipsum sit accusamus.
+0e6073dd-d8e3-4731-a0ae-2b0bef01dae4,9a88789c-aa52-488b-81bb-8a6fac1b470e,61.62,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-28T16:39:44,Maiores dolores iure sequi aliquid fugit animi.
+1b62fb51-9e91-433d-96a8-54c3c3df8008,dd7d2a92-8a59-419f-bb96-95fef0a2d1bd,94.33,ALTO,VALOR_ATIPICO,APROVAR,2026-07-16T13:08:17,Recusandae officiis dicta dolor dolore similique perspiciatis consequatur sit cum ratione.
+658a5822-1de5-4a5f-a894-0a172ba31a0a,345848cc-2a15-4947-a730-28773b979dc3,28.33,BAIXO,VALOR_ATIPICO,APROVAR,2026-04-02T18:27:57,Deleniti placeat labore consectetur optio.
+97423565-a074-424f-9ef3-334f1202d899,bf60dec9-f8ee-406c-ab8e-bc412384a274,27.41,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-09T16:25:29,Officiis impedit animi eius laudantium harum exercitationem.
+9cf45548-60ff-4b3e-ad77-02753d96e390,9d3958bc-c0e2-4a05-9789-d05fd084e21c,63.78,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-17T06:03:23,Excepturi numquam cupiditate neque ducimus numquam.
+a9f17f70-b26c-4db9-b2f2-5205ff1d87db,1dfc980c-b0db-4c02-8924-8eb90b709a18,12.82,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-26T01:42:15,Unde aliquam odit fugiat earum.
+5bb5f4f4-3c51-4f15-acbc-30b779a07918,aafb13e4-bf50-43fa-9ff2-29d538e8a0fb,58.98,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-24T07:39:59,Ullam quasi dolorum placeat soluta debitis modi quos.
+6255e1a6-f830-44c8-86e7-1c75545c5ba0,0dc21176-f204-4a38-bd2a-4160b4aecb20,87.61,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-24T23:57:05,Illo delectus sed nesciunt inventore aperiam at recusandae ipsam eos dolor.
+eb0d19d5-76a7-4170-b6dc-3437dea42072,939d1150-1a11-416f-9e9e-c6fb176f98eb,48.0,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-03T15:37:23,Ut deleniti occaecati minima dolorem.
+dd8cbdf6-17bc-46ff-b07c-1d4708a2b9a6,a17b32b7-7b29-4fa9-aa73-984bd9500c44,59.68,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-06T09:26:03,Voluptate aspernatur sequi quaerat soluta quasi sequi ex soluta.
+010e666d-f5bc-4871-9e7b-00326cf7fc94,b440d1ff-96ac-4725-a36f-b0213116b7cf,45.05,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-19T07:58:30,Eum debitis incidunt quidem saepe fuga nisi non sequi.
+0d99b8b5-dcd3-4c99-9f70-f08b80c237bf,5bc3992c-160f-4bff-8672-c131ded52be6,35.44,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-03-23T16:35:00,Explicabo nisi sequi aspernatur dignissimos assumenda molestiae reiciendis.
+756b1765-d873-4326-9e11-836697c3a32d,239f722e-7e3d-4957-a39c-fdc16610f832,68.04,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-02-20T18:24:41,Optio repellendus rem amet dolorem perferendis totam libero natus est.
+a3c416c4-4ccd-4378-830f-2922a34d6a1f,ea24ebd1-75f9-4822-a99d-e805cd42ef84,1.07,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-27T06:00:21,Minus vitae sint occaecati enim.
+8a99a38a-0a9c-42c6-b4a3-ba22b65dc232,ed43d86a-bef9-409c-8c0e-09031a4e3e61,45.15,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-06-08T05:17:50,Iure hic temporibus optio enim.
+98ce5a0e-5934-45d9-a1ae-adc9ed373e1e,63adb83f-4ac3-4183-b5aa-c2b067833ee2,85.04,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-07T09:55:47,Ex maiores veritatis dolor mollitia eaque nisi dolor eos.
+c53f0c27-f31a-4362-a2e1-54d241e3da37,c968588f-1698-4923-870c-c5a2ac28a420,91.67,ALTO,VALOR_ATIPICO,REVISAR,2026-04-29T22:25:00,Nulla a sequi harum facilis at impedit.
+b5731bca-1726-40ad-9285-c94908fbd801,cf7d2e22-b3f9-4f05-a4a1-240b73091b1d,45.36,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-06-11T16:30:16,Quae fugit distinctio nostrum provident beatae ad consequatur.
+481512ad-121c-41b1-b675-0f1a2b7a9676,917d468f-3ad2-48cc-bc1b-3cdf8dbb9ab6,67.55,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-14T21:43:00,Qui repellendus ullam odio labore nobis tempore libero dolorem ea.
+0c3087db-2d69-4fd7-b512-73b1305182c6,49a1d414-e83a-4dc0-8420-7d38f71fe461,81.79,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-05-04T01:34:41,Possimus in odit aliquam rem quas temporibus repellendus quos accusantium.
+e35dee50-ca5a-42ca-b2aa-f58757ba94ba,7f9f20f8-a5ed-4969-b4d0-82af296f9e6b,1.75,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-06-13T00:26:09,Dolor voluptatem ipsam quis fugit dolores sit.
+0cc07af2-d82f-4534-8d10-b179298d2d76,de5f2dd6-12fd-41fc-b141-891f6ffe2e2c,57.89,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-02-13T11:16:15,Aperiam illo ipsum iste eligendi provident iste voluptates assumenda quia.
+5e0f3c57-3b60-452f-b1e5-cec266561409,bc3172a4-4f73-4ce9-a2ca-39342ea74e00,75.66,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-15T09:07:37,Ad esse accusamus distinctio molestiae ipsa vitae.
+7b23de95-336e-4741-9b0e-49d10d451939,92713cb0-ebd1-4bdc-8623-0da7f5bd9d54,98.92,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-07-09T14:57:24,Natus nulla dolor dicta laboriosam illo consequatur.
+0520249c-a0d6-40d2-8458-fca4cb38ff61,0f2ba6b5-1f27-4063-8d09-ec0cd17e5868,90.63,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-17T13:34:04,Libero totam cupiditate magni recusandae a sunt eligendi praesentium unde.
+06e12434-52eb-4566-b1a8-905a7791928e,3bc793e6-f5de-468f-b99a-0802bd9c6efa,74.33,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-02-11T10:41:44,Soluta ea quae praesentium assumenda quaerat.
+7d0286fa-3c51-45dc-9ff1-5b3f736b63bd,7f250db4-1bcc-4b23-be00-bc4f8eeed968,88.93,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-08T18:36:09,Amet dicta ipsam quas excepturi a corporis praesentium molestiae.
+55624298-847d-466a-bdc0-24a82ca9e30b,7f8a8fc9-ea6a-4b14-a308-98c48180f0f3,41.24,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-13T20:00:15,Est ex aspernatur numquam illo eum officia a.
+801977aa-b8af-422f-9512-3dcff08baf82,a23b8581-4e47-486c-b48e-fa101b0bedfc,42.45,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-02-04T17:19:51,Illum incidunt voluptatem aliquid in blanditiis minus labore.
+f0a45d93-0d0c-4b98-a4b0-e27b1c1c2027,fbf3b313-befc-446c-8060-8bc3531c77e2,38.16,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-08T11:53:36,Expedita aperiam ratione sunt magnam id repellendus laboriosam.
+73e5f233-8e2f-4c33-a4bf-7a9c3c14883c,975354c3-b7b1-4bbd-a1ed-2c3abeaba93e,31.2,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-02T12:52:38,Provident dolor harum voluptatibus molestias voluptates repellendus molestiae id.
+e4174f4f-34d0-4cd4-b3cf-75a2a0d46ae4,9b577156-5fd4-4bab-badb-795515bd362d,47.66,MEDIO,VALOR_ATIPICO,APROVAR,2026-06-03T12:46:24,Magnam commodi adipisci magni ut dolorem fugit.
+72257d2e-59db-4d6b-83e0-4438409f53b4,a12126a2-3a60-4be7-88ff-f8fcd8f18387,58.73,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-07-04T12:15:09,Quia itaque reprehenderit deserunt consequatur.
+b6fa9c9f-f9b1-45eb-b154-926628b5eef4,971a9b70-02f2-4251-87d4-07ace2ac69ed,68.72,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-07-11T10:08:41,Itaque amet quasi est ab.
+8df3f6b5-d76f-4d6b-baed-2615a5e39c5c,6c7206fb-04a5-442a-826f-73a6fbf839ce,12.95,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-10T14:32:05,Dolores rem libero fugit culpa officiis saepe.
+43c5ceca-9caf-4919-a775-c267480ab486,24d92f6b-9c2e-4ebf-a7ec-e25ee65cde4f,74.01,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-04-05T23:10:41,Atque molestiae ea omnis eaque ut neque.
+fc2840a8-d48a-4d96-a035-c41119e8cb2a,aeb5f0e9-16a9-4972-b78f-80fc6d628b57,15.43,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-01T06:27:39,Minus eveniet voluptatum pariatur suscipit tenetur nam quos rem.
+55488cee-0490-41ac-a062-f2a8ba7fe0bf,08c048b1-0aa8-4485-9545-1214c2f9b5ef,90.07,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-01T22:30:25,Beatae perspiciatis similique consequuntur sapiente veritatis facilis labore animi.
+a8c951ad-b69c-442a-86fb-51663e5c8fcb,8c5df028-53c9-4255-b51c-10679fcd45da,73.14,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-06T12:17:48,Ut impedit consequatur suscipit.
+be77c4cf-d530-43f0-92ee-86998ecf0a12,60eb5a78-ef63-4475-912f-d1fc3401117c,55.37,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-01T03:11:47,Repellat quasi officiis molestiae reprehenderit deserunt.
+4d118c7c-9875-4510-a4e6-3d3ae8f57f32,e4fd7179-4bd2-44d8-bc9b-8ff8cbc0e5c3,42.8,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-28T22:58:14,Error tempore dicta quidem id.
+1b88a76b-f431-489d-817e-0843f6583f9c,be0bf163-5b9d-4dd5-a744-c428030b65a7,72.33,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-05-05T08:33:40,A odio qui iste neque.
+40b6f7a3-3775-4ba0-afa6-6f417addfe89,5dd52556-3177-4884-b692-f1b9e5d33d51,75.57,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-03-14T11:38:26,Fugit inventore saepe provident recusandae sint nobis quibusdam vero.
+20fe3d73-2c3c-4d15-97ea-562298475ea0,c9810a2a-8edf-491f-994b-79655ff56e5c,38.1,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-03-07T03:04:04,Cupiditate excepturi reiciendis autem.
+3506e1ce-b54b-4e63-8f87-d1f6dba80d89,3b54cb77-1c8a-4e16-a9dc-b14e3b352786,95.3,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-19T21:15:24,Laboriosam dolor a non excepturi incidunt placeat omnis vitae.
+282f0068-0367-4b55-994d-9b64b2b01d58,3f5d3777-82b9-40c6-aacb-80b8ffdc8002,1.2,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-20T01:13:20,Cum distinctio at in totam saepe.
+801bd299-0d5a-4c28-bde7-abaf3234e773,85d45f85-c926-4b1f-b0b0-4e74eefdf140,95.42,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-13T22:19:07,Doloremque sit aliquam vero cum deserunt earum itaque.
+e2c3ff72-7382-4580-abd3-f575a7a3c33f,4bef42fd-e461-4a40-b9ff-9cb8aa1f5acd,68.52,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-09T05:38:47,Corrupti enim optio quam libero incidunt dolorem.
+dff144e9-3c2e-4f96-aef2-f1da44937048,d21b3444-0c16-4880-80ce-4a76e384be3d,42.68,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-29T14:13:02,Ipsum nemo dolor blanditiis tenetur error placeat ut.
+d4158615-40dc-4849-ade6-42b80b577e19,9c685d5a-e956-48a1-8752-678e7afbf6cb,77.67,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-18T06:50:19,Provident mollitia soluta saepe quos ipsum facere numquam dolores qui ex.
+4fcc4924-f3f0-4824-a22b-f8cd562e974a,e74b4377-bab7-4d3e-9d4d-bfc5be95288b,24.64,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-04-25T14:11:51,Deleniti rem dicta molestias odit mollitia explicabo.
+cc361d06-0f5d-4111-9d42-2ccd56c299ac,ee58b99b-f8f4-41f7-9f54-e2d97f202640,41.84,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-30T23:39:45,Molestiae autem ea adipisci esse reiciendis nam.
+7a1aeee0-8fe9-4bd4-b951-db7262b4b22d,145adb65-5935-49b3-ae67-425d48379b1a,49.85,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-29T11:55:46,Perspiciatis autem quaerat quidem ipsam vero.
+bd60faca-ea2b-45f9-93b6-2d55157640da,9aa3c75a-b23e-418b-8b84-f2e0216937a4,19.38,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-13T11:41:20,Excepturi tempore assumenda ea consequuntur repudiandae sunt.
+716c2214-df8b-4654-a9e8-7cfa226c421b,8df0efb5-9757-43d9-bb28-7be1cae64d9b,53.73,MEDIO,VALOR_ATIPICO,APROVAR,2026-04-12T17:52:20,Iure iste tempora libero odio consequuntur corporis doloremque.
+b31fc8e7-f473-4f3d-b52a-586ff0526a63,872af466-636e-48f5-9ae2-8b19648701e7,88.23,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-29T00:01:02,Aliquam praesentium in unde suscipit voluptatum aliquam magni delectus ratione.
+cc76e339-e3ee-4b1b-9bfd-dcf2fc2f1f3c,d1c97674-4d46-43f7-a973-06ce33b356c7,20.96,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-07-01T13:31:04,Delectus ipsam iusto perferendis amet cum sequi doloremque maiores nulla.
+dd75ca84-479a-4a11-a46c-507902edc649,62646a02-e250-420a-b19d-ae6a0685bb78,11.76,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-27T05:41:39,Deserunt voluptate error esse saepe reprehenderit nulla similique quo consequatur eveniet.
+b6c5bd36-537e-432d-a510-ef29753ffff0,655171cd-b824-4967-8ec1-76869666a443,79.08,ALTO,VALOR_ATIPICO,APROVAR,2026-01-29T06:22:42,Ad quia voluptates sunt beatae similique libero provident.
+12dd3bbe-9292-4202-b8e0-4e07cb496455,b820e71f-14b7-4a4b-a4de-fa5de0518d2d,13.14,BAIXO,VALOR_ATIPICO,APROVAR,2026-07-11T11:20:38,Expedita omnis quia necessitatibus nobis molestias amet fuga.
+e665ca5a-2981-41b1-b83a-6da16cfd0fd6,e5ae10de-4a3c-4af9-a440-e918411518a3,56.91,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-04T09:24:08,Saepe deserunt sint laborum aut unde unde.
+3dc1b777-b484-493a-b73e-f68324c8c033,0b6f39b5-1fa3-40b0-916e-15af44ce5c3d,67.25,MEDIO,VALOR_ATIPICO,APROVAR,2026-06-24T10:47:28,Culpa modi maxime saepe modi dolore.
+f4482171-c1ee-441b-a134-42b21fd0338f,38b12b0e-2ade-45d6-a07e-92bb45044f0c,33.4,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-29T17:33:56,Minima consequuntur praesentium quibusdam facere explicabo pariatur animi aliquid.
+c32b6cf7-17b9-4a3a-97e6-0b7804d5f4c0,50afa4f7-d4e2-4850-908c-2e539a3bb82d,27.87,BAIXO,VALOR_ATIPICO,REVISAR,2026-01-27T09:58:49,Repudiandae velit atque soluta quia quod doloremque doloremque.
+ed7fa48d-b143-43ef-91f0-d9b528741302,6aaa372e-f11d-4d6a-a582-540f5733ee02,90.44,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-31T17:41:38,Dolores illo excepturi repudiandae numquam.
+e4bd3575-5666-4fd8-ab24-14a2bc653ae2,9cd6ec5b-c7ab-4bc1-b326-f3223bbbb7bb,18.17,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-11T08:01:41,Voluptatibus dignissimos ipsa nesciunt tempora optio deleniti.
+8adde175-7399-4d40-b007-7ea306c2835f,2af97418-549e-4332-a3b0-f082b5928304,78.77,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-07-25T15:06:12,Distinctio asperiores facilis veniam totam.
+992c2256-7ea0-48f1-be04-8dc14d5d54cc,b0fbcf21-a22d-4fae-94e2-3a72513ac1e0,84.27,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-07T23:13:23,Incidunt velit similique perspiciatis facere fuga hic laudantium mollitia ducimus.
+11c5a96a-0b1b-4a43-b4da-d0110a955c34,3f7cbd78-0ff6-4b1b-a314-93d5dbf59329,5.64,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-11T01:17:57,Beatae id quisquam iusto ipsam doloremque rem laudantium cumque beatae.
+880e0cbe-495a-41e5-94e0-3730418cfa00,e30de15e-3f7a-43f3-86c1-c04a44b94451,95.41,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-08T14:32:55,Commodi ullam quae ipsa magni commodi.
+8600427d-3da7-4c57-af9d-46c0929100ba,740046ff-d931-4292-863d-faaf572487c0,70.22,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-20T05:12:34,Tenetur doloribus perferendis impedit ipsa quaerat aspernatur.
+559c3f07-2e4c-49a8-88f9-d636767b0186,1a86c4df-8fcb-45f6-943c-a0a389629fda,41.29,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-07-19T20:02:20,Veritatis cumque non ab.
+3bf4f202-5f28-4674-8f95-884e9f5bc255,772c9092-70cd-4fa5-8c3a-2e0dd6dfcb97,39.15,BAIXO,VALOR_ATIPICO,REVISAR,2026-03-04T12:00:17,Quibusdam sed et dignissimos veritatis quisquam nihil explicabo asperiores.
+59ff57c0-9f5a-4f1f-9f2e-b9a2627c86f6,f019b376-adba-4a34-8ed1-a21545379f41,64.06,MEDIO,VALOR_ATIPICO,REVISAR,2026-03-12T10:03:36,Quas quisquam aperiam consequatur ad alias qui officia aut inventore eaque.
+418caaa9-ff53-4677-9e2a-8380c54f7ad5,47931334-75b8-4885-b0ff-b5ccad205abe,41.24,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-24T23:28:03,Provident vel voluptatum animi dignissimos explicabo.
+0c6d3ee0-4b11-453c-9703-abc116af4c01,11d09e08-3fb4-4b91-a372-257105f170a4,16.89,BAIXO,VALOR_ATIPICO,APROVAR,2026-04-15T04:56:20,Tenetur maxime cumque cumque sed quod tempore deleniti.
+26af07c7-6cf9-41b4-be04-bdc2667265fe,67abc63b-7b64-465d-a7d5-f01a2f85c02f,41.05,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-03-16T10:17:00,Consequuntur laboriosam deleniti voluptatibus id repellat iure.
+da001e0a-c69e-4860-95de-f0a3d8cb1fbf,0779c81e-e6f2-496f-97bb-5ee57822242e,26.4,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-03T04:46:36,Sit laudantium aut ullam tenetur suscipit corrupti ad.
+62ed29e8-d88e-4154-a5e7-53a437b7aedd,7c9eae59-92d4-4971-a6d8-613a22e90d5d,54.38,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-26T06:02:21,Optio exercitationem aut iusto illum eaque minus eum hic.
+023d4265-3488-4723-9112-b7ca1abf087b,7439fa13-d337-4f40-b914-24c5cd38bfe8,5.0,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-22T12:21:40,Et perferendis odio ipsam aut et.
+3412e4f7-a95f-49fe-8710-f251125178bf,8255e17a-8891-4a4b-ab0f-35c86dfaf537,86.69,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-05T13:08:19,Expedita vero placeat ut aliquam.
+de58692c-8fc0-410e-bf9c-95c5099ae317,e7fde8c1-d360-432a-9845-6ca3629dff9f,44.87,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-04T02:29:47,Quisquam ipsam repellendus sequi omnis perspiciatis deleniti distinctio eveniet expedita.
+dd6881a3-0483-4bfe-a233-059ab5d9f8b3,c47d8983-6cb3-4bb1-847a-4fc7bf3aea59,63.99,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-05-10T11:29:35,Beatae quia blanditiis nemo dolore quis.
+7d56d4a0-fc3a-4ad0-8f79-6eea42013821,fd578164-d790-4ad7-be63-e84de5a4e134,56.08,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-03-21T15:54:01,Voluptatibus debitis incidunt placeat distinctio nam eligendi minus ex.
+ef6efba1-6ca1-4870-bf5f-64fef51f84fb,abeb778e-9f8f-4544-b831-ff764cf07c1a,94.17,ALTO,VALOR_ATIPICO,APROVAR,2026-06-02T07:54:11,Laborum distinctio eveniet recusandae facilis deleniti voluptatem dignissimos aliquid beatae.
+9b8df978-3913-4547-9564-8329a4296754,19ee49cb-19dd-4414-8676-5a3c8d779450,44.96,MEDIO,VALOR_ATIPICO,REVISAR,2026-05-14T20:53:11,Deserunt quisquam doloremque sapiente.
+c943f64e-7128-4538-9c4a-6e9fba0a5c57,d4ad5d93-9a8b-4e23-8729-d4b75a2776e7,39.69,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-08T00:29:50,A esse reprehenderit non labore voluptatibus sed unde dolore odio.
+f52ef403-d909-4719-be5e-a8275e2c2c8e,9f00c4da-4d1b-407d-890c-968217b67e83,39.57,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-04-23T00:28:07,Soluta itaque exercitationem corporis beatae.
+452dfe55-b9bd-4287-982d-0a17d6067bd4,2a029f44-fb49-4e3c-a346-d5e2d58b5e67,37.86,BAIXO,VALOR_ATIPICO,APROVAR,2026-04-01T19:41:55,Dolore possimus vel voluptate cumque mollitia.
+c2d24c7a-7317-4d6b-a41d-c861aa6845fa,a6db2b9d-da2d-428b-b200-a793ac4582f0,91.63,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-02-01T13:47:43,Fuga aut ad recusandae pariatur ab maiores natus.
+b544d5e5-cdac-4a0d-9f41-4c9bbeecc65f,3107a760-14ee-4dc8-b112-71339ef5ad94,87.3,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-04-01T11:49:03,Porro hic est qui ipsa illum neque id.
+becddd76-dade-4b44-9f19-197de35c9b81,89498887-7d36-41cc-ada0-f87a76f96747,72.17,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-02-06T00:13:42,Nesciunt ea recusandae consectetur ipsa quae.
+bcc17f2b-0cbc-47c7-a2f8-2d942c8459df,421cbd9e-76fe-4caf-99c0-055dd52bd71b,7.97,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-11T14:45:49,A rerum nam non sit nam sed ipsa.
+fd178f9a-d9e3-45d0-8cd2-15c86eb512ac,d9133163-d1cc-451a-9685-2a310af235a3,18.06,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-27T15:51:46,Nemo ullam numquam reprehenderit nisi omnis provident dolorem occaecati.
+c033b119-ff66-4d0d-8a81-4fd5e1b62646,30c05d04-539b-4ab4-bfcf-b2783b1a3c3d,92.16,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-02-14T18:19:16,Voluptatibus provident dignissimos occaecati inventore magnam praesentium.
+efc8ce5c-5f87-45c6-ae3d-0ba5fafdcc0e,c80d076b-44fb-4f0f-afba-46b780da829c,47.59,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-02T17:27:53,Commodi sapiente eius impedit pariatur harum aliquam.
+078ab99f-e50e-47dc-938e-7a5e889cb4f1,b0205c76-9d35-4eb0-b547-01c0f4bb1334,85.42,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-06-29T23:23:34,Commodi culpa perferendis perferendis quam perspiciatis quibusdam dolor officiis.
+5202223d-3fad-441c-9848-52c0049fb791,1300bea5-f842-47a7-a819-31cbed079b41,53.87,MEDIO,VALOR_ATIPICO,APROVAR,2026-03-08T05:02:48,Quo aliquid ducimus tenetur impedit ex ut.
+5ef43abd-c558-418e-bad3-6fe379651af1,f9e5323d-acf8-4520-a08e-86bfd8ba3812,36.56,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-28T05:16:30,Doloribus pariatur ut excepturi animi soluta voluptas.
+e63b467d-b3e6-4f8c-912a-f7b04c2332ec,6881cc76-1a19-4688-8583-72ec7524be1b,91.43,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-26T08:27:54,Quam nemo quasi tempora nemo quasi.
+e0072fe9-d2fc-41ea-8f47-f70cea705397,0459b98d-ab52-44e7-8f3b-acb185c7210e,56.54,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-01-30T13:41:25,Accusantium tenetur voluptatem adipisci soluta.
+30e2a23c-3075-4195-813e-a7aa0e8ac133,db367929-19bd-459a-946d-5ca03d5ff3dc,31.79,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-02-05T03:59:18,Aliquam minima perferendis occaecati facere placeat.
+88f54143-407f-4cb1-b89c-d352c0f94c2d,389f6522-5ed7-4db5-9c93-0bba86b60335,43.71,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-01-31T06:54:21,Eos fugit assumenda fuga laborum quaerat provident perspiciatis officiis.
+a639bb8b-d3ff-44f6-b52b-1f4d0fdf73b3,f6be0ffb-c755-4734-b11c-fd4c82412783,6.82,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-11T07:37:12,Placeat a ipsum impedit sunt nam ab autem.
+cf888759-e8eb-4f5a-9e6e-5d0eab2e6811,ae20ab15-bd36-4985-a249-58b9f924c81e,78.66,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-04-29T23:18:52,Expedita omnis porro similique accusantium nisi dolores labore.
+45cf2061-b887-406b-bd68-60535b003d0c,2972c594-9176-4c99-a5da-bbee49e91cce,83.49,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-06T15:07:27,Occaecati nemo provident similique delectus deleniti facilis voluptatem non recusandae impedit.
+11788001-6cec-4e70-989c-0264f67ed98d,69637db9-ce90-490f-8da5-8611be6816bd,75.39,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-28T22:52:54,Cumque aliquid eum hic magnam.
+ea4543fd-ca18-47df-86c3-c4e0c430f26e,0ca28381-427a-4091-99a0-1307c705f24a,46.21,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-02-24T07:17:36,Similique deleniti dignissimos hic nisi.
+997e21e5-e2c9-4a3e-be1f-55ca3493edcc,a038038f-78ce-43da-b6cb-6e70fb620211,70.49,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-04T06:20:05,Quas animi alias nam ea quidem iure rem cupiditate.
+80174491-e050-44b7-99c6-fd8c0231df98,8a055f79-83cd-4ece-a363-c2ca726f0a1e,4.44,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-02-14T00:45:54,Illum quae inventore nihil tempore quam itaque rerum laboriosam.
+3799033d-0528-4c98-8bc8-aee3fe659ebf,9611ac08-1601-4d9e-8f54-cbb8867525af,39.95,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-05-10T13:16:01,Repellat enim neque adipisci quibusdam architecto quos odit dicta unde.
+f33610df-801a-4769-8a7d-56e18b86196e,dc3c5772-9d45-40cf-b6fd-cf278238a3ed,86.03,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-26T08:10:56,Vel consequatur eos laborum adipisci quaerat maiores.
+eb5d35a9-0349-4f76-bb81-902703ef16d8,ac438b89-bf81-4aea-b4c5-1db5fef5563d,33.16,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-06-21T15:43:27,Nulla sint natus eos cupiditate accusantium officia expedita.
+3751fa5b-e838-4a2c-9e9d-6c1726ebcf09,771e513e-b95b-4142-8c23-a1cf231c8410,81.13,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-04T19:16:56,Incidunt veniam exercitationem quo atque accusantium neque dolorem.
+a3728e33-55d5-40ed-8d3b-65dedf1b762e,948d8704-a9fc-4b6b-83d6-7804d59fbb1e,25.87,BAIXO,VALOR_ATIPICO,REVISAR,2026-02-26T14:36:18,Quam dignissimos expedita libero a quo amet voluptate.
+a0a31672-97a5-48da-af6e-22935a9c06ba,a87a0c36-3af3-4147-a786-301f7b6f2702,65.12,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-10T20:03:00,Id recusandae reiciendis ipsa minima laboriosam.
+b504ea3e-d4cf-4da4-8659-04b24ce8f8bb,a21eec60-6adb-4de3-8720-2262d346efb5,84.5,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-01T22:35:47,Vero earum ratione sequi quo.
+bef1d008-a687-4b42-8d10-39bb72040505,6bc6b224-8c9e-47ca-9c7d-f931c5a8263d,42.99,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-15T19:46:49,Architecto consequuntur quos aliquid ipsam asperiores.
+fed946aa-8c38-4823-b8d8-06163317f7c3,a86b185e-4971-4b7c-aac5-51945b69897a,20.58,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-10T20:32:00,Ea impedit voluptates minima error inventore doloribus non.
+e0a0a80c-f8bf-479c-b84a-64adf65ce351,6f7684b8-aa8f-4c50-adaf-ebb9918068bf,65.69,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-16T15:49:04,Asperiores suscipit minus qui reiciendis perferendis consectetur sunt eligendi accusamus.
+06342339-649e-43f4-89f9-f03e3a7f36a1,83617e98-b974-4bff-b00e-66b0336c7f5a,96.85,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-14T21:39:19,Reiciendis sed laboriosam dolor repellendus.
+05ab8bfd-32c0-4d85-8456-135c03bf8013,d1aafefb-c502-41d6-8bdf-509b1506abe0,5.27,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-21T17:20:27,Suscipit quaerat quas harum enim iste fuga saepe sapiente modi.
+821d3bac-278d-4ddc-bd64-336985cf7af6,30f99953-3b79-4c3c-9c24-6b7b322b86da,69.24,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-20T03:13:34,Debitis ut laboriosam eos tempora recusandae officiis in corrupti.
+6b61cf26-b026-4457-8ac2-9aac1ec9f0b4,ae4c71bf-b439-4348-b06c-517f17761350,37.42,BAIXO,VALOR_ATIPICO,REVISAR,2026-03-02T09:08:32,Debitis culpa iure totam blanditiis.
+b069ee86-1c88-4790-a292-47d1eb44210f,3ccd8f2a-2301-491a-aa2f-25fc1accd643,72.1,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-06T23:08:39,Veniam doloribus voluptatibus blanditiis numquam aliquid incidunt occaecati fuga soluta.
+f6f59033-a266-4ea6-8e2f-690aeb8c14ef,7081dbf8-6492-4c82-af8b-2e86ee83ede0,28.68,BAIXO,VALOR_ATIPICO,REVISAR,2026-02-25T06:03:45,Iste iure aliquam quidem tenetur maiores doloremque impedit.
+baa5fba3-ae47-4d13-ac08-354f871efaed,2d83c331-23e9-4c7f-b541-bc5fbf7ee289,59.23,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-25T21:36:17,Voluptates laborum quos quaerat eius cupiditate sed.
+50440ad1-3527-4cc1-b8b7-462ba4521f6e,adfdcaba-f9a6-4917-a2b7-02e04072bcdd,34.97,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-03-24T03:33:15,Voluptatem asperiores in ullam sed dolorem.
+513b6a6e-ca92-439d-86b4-a65cf0d712b7,153f5646-8b91-4d94-9e64-a334d1992c27,17.84,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-03-24T22:36:49,Soluta reiciendis esse perspiciatis architecto a nostrum ea nobis.
+514f2770-25dc-4653-96f0-1f344f17319b,aec4be4f-903e-44a8-bdd0-d6e1cedc0581,57.49,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-08T02:21:14,Ea accusantium in minima dolore quidem suscipit.
+4e0b5f04-288f-4aba-88bc-921678a8152e,7a54dc33-cd11-4192-8033-bf2e6374327f,7.25,BAIXO,VALOR_ATIPICO,APROVAR,2026-07-10T04:48:40,Magni modi magnam numquam eos error pariatur quaerat.
+49db6d8e-9372-4d30-b123-0002dfab3d41,66a1503d-fa41-4398-997f-f4ce5fed2e7b,5.21,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-03T11:31:32,In molestias nihil similique voluptates veniam recusandae.
+fdced53f-354d-4730-bf2d-4a3154337968,3882f70d-c395-4338-b358-7d88c1f0e1f7,76.93,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-12T15:30:54,Ipsum inventore dolore expedita voluptate odit.
+ba907816-d7b6-4c03-9644-81a5ffad868e,2058d463-d0c8-4aed-af7c-1aab3690997f,56.1,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-05T04:24:35,Reiciendis reiciendis ducimus vel earum dolor.
+10a58fdb-1d51-49dc-8405-63f12282edbf,bab913a4-b080-47bd-9e90-fa104388750f,86.41,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-03-26T19:11:31,Sint consequatur magni quasi qui quos quia facilis error ad.
+2dcc74d2-3695-40a4-b310-fdcd19ac6d32,0ebd0882-699c-4169-a7cd-66743fe54109,82.55,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-17T10:12:55,Accusamus asperiores sint neque molestias excepturi expedita fugit exercitationem minima.
+a2a52d12-650b-4933-91b9-2c3a2506c28f,5fcb3bc0-cec8-4378-928f-608e90638537,39.28,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-04-21T12:43:43,Incidunt explicabo officiis beatae eveniet blanditiis.
+ca5beb24-0c6e-481f-9bd6-b153996c07be,2ca5d546-4a33-4f00-9153-1f08900286c8,71.93,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-13T15:19:25,In dignissimos consectetur sapiente in iste enim ratione dolores incidunt.
+1d8fcad5-317c-4a86-86fe-c33535cc05f0,471e2856-ee70-4caa-b211-f500349a19c2,55.38,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-20T11:04:31,Quae natus atque pariatur architecto fuga accusantium quam quod.
+6551788c-8b5c-410c-80bb-807a4137dec7,797b4784-4646-4b9c-866b-a1e7ac7ea90e,25.65,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-23T06:13:32,Doloremque debitis nam fuga ut hic earum.
+8b7109e7-42b6-48ef-98bb-c316cd8f9fca,0d167c20-bbba-4363-8146-5adde29e0bef,77.61,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-01-30T11:43:23,Quam in corrupti autem non in error.
+e7a30aa6-82f5-4dda-9bbb-5dd91b9f1785,61213205-bd0a-4dad-8236-241d7ec89f98,76.38,ALTO,VALOR_ATIPICO,REVISAR,2026-06-18T20:53:26,Eos in quas quam vitae.
+8dfb5f93-a38f-4037-8fcd-47f1a40d05b4,e64d9d70-49b0-4867-bfc9-03d6b1f12b8a,98.86,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-25T08:30:06,At impedit laudantium consequatur nihil asperiores.
+82b38ef7-238e-4853-b490-6546d7479f5d,f5861c39-3c24-4ae6-a6d9-18ab7a577b3d,51.04,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-06-03T14:04:35,Minus inventore dolorem soluta animi distinctio.
+6b6e8127-f47f-431e-b7e9-cb7072ad4588,42b0b237-6c95-4189-be6e-177be2ab2fcf,30.8,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-28T04:44:27,Perspiciatis dolorem earum expedita nam sit illum fugiat at perferendis.
+a4e2c4e8-bdf6-4f54-943d-da8533805b1f,47d84d8b-64f2-4464-9649-772808754682,79.04,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-02-13T16:03:35,Ab architecto accusamus ad consectetur.
+fec6dd6b-9093-4999-8bad-262da4e2dad3,cd17154a-8889-4cc2-8152-b3ee8357d2f6,29.53,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-02-21T20:46:29,Explicabo porro tenetur quisquam saepe magnam iusto aut.
+58df5dc6-78d0-460b-8599-e478ebed4e97,8a910c82-e6e8-4602-a374-948b2ff7d194,54.83,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-16T13:26:25,Ullam animi ut accusamus quae.
+52b550a3-0359-494d-b597-785708facab1,be126684-a187-4c7f-9f77-82ab6065e8f8,73.53,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-23T12:56:38,Doloribus ex dicta odit tempore repellendus sunt similique veritatis accusamus.
+dad98c14-e716-4d27-9f0d-3df285af876d,a47fab83-e445-4a5b-8e9b-eb2e9e8e7fc8,65.74,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-30T19:52:57,Nihil ab labore nesciunt voluptate.
+e1840d80-c0c5-4a38-b968-569c4d2044af,7e27ba03-6277-4583-83da-d99ba91432d5,44.39,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-02-27T22:30:27,Vitae quo voluptates excepturi quia ut repellendus.
+6829324b-dd7b-4825-8a44-5d3b08a3bb3e,67c53a85-7908-4c6d-8078-851936b5ea84,74.7,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-02T18:59:49,Dicta recusandae ratione a magnam.
+63d8ba31-04c1-4ffe-9bee-eda3475b528a,1f6e2674-5713-49e0-acee-9d3745823b90,82.6,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-02-12T11:18:07,Nostrum aut beatae distinctio distinctio aliquid rem aliquid.
+88c6b210-bdcf-470c-a071-5c6b1e132871,eafa051f-3e2e-4261-8f28-ed42a29948e7,25.61,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-19T10:03:25,Vel cupiditate sequi consectetur quam consectetur.
+a189bf97-6af8-4d6c-9296-4addf6369d96,8f4e7870-a2bd-47c2-8387-7a3a280d1ce1,1.17,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-19T23:40:44,Unde magnam voluptatum ullam praesentium occaecati quidem.
+26125d79-bc86-4f27-a1aa-9ac3cddd9a7d,480aa2ae-2c09-43e3-be88-c2160567cca4,61.6,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-02-12T00:13:01,Fugiat enim ipsam omnis corrupti dolorum porro optio consequuntur.
+89c17039-f520-47a5-8803-b9a9b7382c81,da00f7fb-c97f-4226-8625-09a5bc414c99,73.21,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-19T12:35:54,Quisquam consequuntur voluptate temporibus odit.
+496b8c64-416e-40f2-8a7b-97f3d818444a,7970a7dd-6eec-4294-8599-fa9b6f07d7b2,28.7,BAIXO,VALOR_ATIPICO,REVISAR,2026-07-18T02:57:14,Exercitationem molestias recusandae dolore recusandae repudiandae.
+dbdf8ee8-2c31-4ae7-93b2-2f9d72702fa4,da8fe77f-e67c-4598-813a-6572e80dcfe2,1.03,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-17T20:01:37,Iusto ullam magni eum enim nemo.
+54c0bafb-6bd4-4df7-a5a6-4f31c380adc1,7df6d701-86f4-45d4-96f1-bf94ea1da22a,87.59,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-04-14T08:03:32,Accusamus nisi ipsum qui nam.
+38456db5-e588-4701-ab34-0400711de609,49df9af8-cf46-430a-91f8-600ccab922db,97.16,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-25T00:58:53,Earum vero beatae animi nisi eligendi corporis enim corrupti recusandae facilis.
+c48764f6-55c2-4feb-b122-363ffdfba0ed,5c183346-1c5f-44c9-a10a-21b1468525b3,77.46,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-12T23:26:06,Similique distinctio velit voluptate voluptatum tempore cupiditate.
+31ca7369-7974-4815-ba3b-bad250197a81,db373772-30aa-42fb-9b51-fae26d54a15f,86.26,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-09T02:29:54,Ipsum iusto quasi quidem fuga velit totam quaerat ipsum facilis.
+7b9ab681-996f-4d52-bb4a-3182ac49b60a,52806c3c-3d38-4d31-8950-b2dae60fcdb8,83.85,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-07-19T15:34:23,Cupiditate dolore illum tempore eveniet inventore architecto quis magni maxime.
+6e355b97-e81f-40d2-813b-d6c7efeb155a,4a798a1b-6bf7-4c1a-b10d-71374fff1e0e,78.7,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-25T10:47:34,Quas necessitatibus perferendis repudiandae voluptas modi autem ut.
+087838de-d12a-4340-93e0-1afdf837d926,79b111a0-5231-4feb-9fb1-a8fe1b4d23c5,0.55,BAIXO,VALOR_ATIPICO,APROVAR,2026-06-18T12:12:26,Asperiores quasi pariatur sed explicabo natus.
+e8e249db-551b-456a-b627-8987d1382752,626b057e-771c-4dd7-81de-9286cc917538,50.67,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-07-25T02:51:36,Quod vero iure maiores ipsa est error aliquid.
+7a1a18a0-d236-4bea-8f18-4f2e94575eab,f2f0bcec-70f0-4d64-beef-93ff3ef6f4a8,61.83,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-04-06T09:57:43,Tempore saepe architecto vitae aliquid necessitatibus iste.
+7dbf2ae3-1b6a-4ee8-8494-d89308557555,5bf740f1-8c14-43af-8c4e-e721d6660ac7,48.65,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-02-28T11:18:07,Soluta unde voluptates delectus maxime non ipsa ea quaerat ratione.
+0c380d55-a9c5-42d2-8881-4d6a85e76f50,477298df-2c71-4056-b68f-cef9467b1f65,50.91,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-02T16:25:09,Itaque placeat minima odio nihil qui temporibus reiciendis quam vel.
+c13fa42a-889f-4e86-9c69-66fa50945733,832df526-8e05-4a71-a340-70ee8d997c17,53.31,MEDIO,VALOR_ATIPICO,REVISAR,2026-04-19T03:16:28,Optio minus necessitatibus architecto optio debitis voluptates.
+f27d120f-0013-49a1-80c2-28080dc9761a,524fabe7-9213-442e-b612-6f9dd602bd48,20.76,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-08T21:23:57,Ut voluptate cum beatae soluta ratione exercitationem.
+266244d6-12ee-4b09-b885-188ce9dd439e,b0ecd84c-7985-4b47-861c-f5b81955b7d9,70.34,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-16T04:32:00,A et aperiam provident fugiat nisi quisquam.
+f6e49cf8-9b88-4083-9f0a-3bd9bf5961a0,1fe7582d-0702-4b33-98bf-3f4df9993df6,86.99,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-30T19:38:52,Quisquam deserunt cumque iure nemo maxime fugit.
+dfc69745-ba90-4c47-b9ed-b5ee55b7e429,8ae8bf8f-ff5a-48d2-87c7-d16c1d942225,29.45,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-07-16T23:32:01,Quas expedita non maxime veritatis non consequuntur iste nihil ut architecto.
+f6187f87-5984-4bc3-b8ab-b64cc67c87c4,7ede9eae-9819-4cef-b164-ae20e1ad9411,6.09,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-04-12T18:34:02,Quisquam tempora ratione voluptatibus quam voluptate qui nemo explicabo doloremque aperiam.
+31347689-cfd0-484b-9e14-fa7ca45f0339,d4e4e5e4-9c8d-49f6-b2b9-db96f78e71c5,84.87,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-08T03:29:22,Doloremque deserunt voluptates minima possimus repellat reprehenderit.
+e3cc0103-33ca-4abb-b142-4d37f1b1b0d3,7fcf85a9-ef4b-4ab2-b8ab-b1682b1fcbf1,54.11,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-24T07:52:41,Atque vel in reiciendis neque omnis.
+0da33864-eb1d-483a-8760-560cec0cf52b,d2e5203f-8f4b-485c-afc8-26085bc85f1d,97.49,ALTO,VALOR_ATIPICO,APROVAR,2026-06-27T08:43:17,Occaecati assumenda beatae a deserunt velit perferendis maxime.
+4525ce41-d7ae-43cd-8ed6-c831e0c639d8,51e60b37-e849-473d-81ef-d679cd0c715c,72.67,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-15T04:26:02,At laborum error facere ex.
+9870f16e-1f6a-4b5b-90da-6ae22d7d4c98,7abaaf43-31c1-4da9-b974-1b3e3caf9598,57.83,MEDIO,VALOR_ATIPICO,APROVAR,2026-02-10T18:46:25,Ratione accusamus impedit est natus excepturi ab.
+187abe49-48fa-4594-9ccb-6a1d5d24c21b,25f5aa96-0641-42af-ac62-ba41620ce74c,9.9,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-06T09:41:58,Temporibus laboriosam saepe autem dignissimos rem ex aspernatur molestiae sapiente.
+c6d6057f-0b42-41a2-991d-a327c914b85f,6070a9c3-4e53-46eb-ad5b-7c8b19632d55,56.87,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-07-07T17:29:02,Voluptatibus perspiciatis veniam minus itaque mollitia fugiat alias reiciendis quaerat.
+0905c31f-c06d-44b4-b6b0-3a5e454f993f,cf953206-1c8f-4f39-8def-af9e742b10b0,20.71,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-02-10T01:34:16,Aut nesciunt ut laborum ea cum reiciendis incidunt autem.
+a1892b20-704c-4435-b2d4-0fc70acd594d,8505aa8c-2b20-4317-a23e-6529f067648b,58.68,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-07-19T10:44:39,Libero molestias quos reiciendis quibusdam autem ipsa cumque.
+230fd77c-95ab-4680-90ea-7b78a11e5a81,d1ddadf4-e9fd-42b0-8887-783adc7c302c,4.19,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-05-28T03:24:45,Alias maxime itaque nemo deserunt aliquam magnam eius velit quia.
+d9062e8e-7cdb-45f4-a250-a1b870c03478,83a66a07-5f6a-414c-b7c5-69a6ab205aac,32.35,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-21T11:36:31,Deserunt autem tenetur tenetur ratione.
+1a8e948f-aa6c-4353-932d-cf65ed900843,2372a916-acf8-4439-b223-05191090e074,23.41,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-05-17T19:39:07,Cum autem illum deserunt consectetur ipsam.
+cffb47ed-ab73-4b63-9a4a-4cb51212fb31,9bc8165d-bceb-4be4-b2ca-904ef46d0b9c,71.28,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-07T18:08:00,Et maiores consectetur voluptate deleniti modi voluptate eius molestias pariatur.
+875b50f3-9be2-4a7b-bbc2-75e66f89f0d5,497a8c34-78a5-4882-9662-03c1461cde24,69.97,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-01T17:12:22,Cumque natus porro numquam doloremque minima a officia pariatur.
+0a712538-e31a-451d-a3a4-4f22aadbdc23,be6af7ba-a16d-4d95-b142-2a5897e4775b,69.52,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-03T06:07:54,Aliquid sit consequuntur magnam porro sequi minima perspiciatis aliquam blanditiis.
+72c545b4-c299-4a47-bdaf-89f7794ae93b,5d125c2c-674e-4bc4-9c95-dba206213190,4.59,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-15T20:40:21,Distinctio illo eum tenetur officiis.
+b6f02e6f-0347-4859-8a2c-2cea2b8f2fed,8da78f4a-486e-464c-8110-e1923879168d,39.09,BAIXO,VALOR_ATIPICO,REVISAR,2026-06-05T11:48:15,Voluptas ratione iusto maiores aliquid.
+4b4aa0eb-c87b-40f8-84cd-725eb739ef6c,8fe3653e-4d10-423c-8200-b584b408f513,52.03,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-21T15:52:28,Sapiente accusantium quae dicta officia quo voluptatum.
+c91b3631-a16c-4747-9a0e-00183f7821a1,a9ab1a55-deac-4aee-a24c-f4ef11d5d057,67.33,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-03T17:50:59,Accusamus vero consequatur veniam qui accusantium magni natus cumque.
+8592c88f-43a0-47c1-a531-ddff3aebed73,708d2119-8d6e-47cb-9941-df46bf96ef70,55.96,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-26T21:54:37,Rerum ea consequuntur reiciendis cupiditate animi dolore sed illum debitis.
+c1f33ba0-d14e-46b1-95d4-ec84c953e2d1,4211ba4a-b562-4c63-8f5e-aea91da0eeec,96.96,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-01T04:30:37,Porro qui quae veniam sit error deserunt veritatis officiis unde.
+0df39e0f-e38d-423f-86f8-7eccb758c41d,16d78d91-f14c-498d-919f-028ce5015709,60.01,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-09T08:28:04,Amet nemo ipsam quod molestiae quidem omnis placeat doloremque iusto.
+b9ce9b86-6012-4f16-a2e0-b342ee6c992d,af14cc5c-86a6-41e2-8696-c6df627add64,73.91,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-03-13T21:38:25,Cum earum iusto a quos itaque libero sunt.
+dfab3617-9651-4455-95f9-5edcd2d2d2b3,9c971da1-9dc0-48d7-b207-4ac4d2b0ee16,28.31,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-07-06T17:08:16,Alias labore ipsam repudiandae at accusantium dolorum autem consequatur aspernatur.
+d8cd0bbf-9fcd-40cf-ba14-1b30491c4a2d,1b3cb6ae-1738-43f9-b054-32ea742386ce,3.05,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-02-21T05:40:20,Cum alias reiciendis quia culpa ab pariatur reiciendis aliquam harum.
+f16d4a50-0367-4ca0-9518-339ca9a9cb7c,452ba846-8959-40e6-9d1c-852bbdf6146d,14.96,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-05T11:23:52,Assumenda deleniti aliquid iure dignissimos.
+587b0cfa-c9d7-4a9b-ab10-ac636be6c87d,ca588702-dc7b-41ab-a314-331f35ae0be2,22.92,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-02-11T10:03:29,Fugit alias ducimus eveniet adipisci excepturi officia.
+c8483839-a05f-4bfa-8c01-b3434034789d,2eb3683c-ac6a-4b2c-a38b-1f6fa02099da,55.38,MEDIO,VALOR_ATIPICO,APROVAR,2026-06-06T13:13:15,Delectus deleniti perspiciatis facilis at ad laborum hic odio nostrum nesciunt.
+b5f89a27-1005-4828-84d9-d139281852a8,825ee529-4565-4bc5-95f6-79b1393753eb,64.54,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-03-15T12:46:08,Nemo asperiores sapiente veritatis voluptas nulla debitis corrupti.
+8420abb4-0abb-4fc6-b0e6-51f59614dcde,574f36f8-b63a-43fd-9335-76e393cde88b,98.51,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-20T14:10:47,Deleniti tenetur ipsum dolores iure repellat.
+ead12e49-a049-42a5-a8a4-d5b3722570a9,b249ac35-0a19-47ed-bf2d-c870d56f545d,75.19,ALTO,VALOR_ATIPICO,APROVAR,2026-03-13T15:09:06,Vel quae voluptatem quidem enim suscipit sapiente ipsa harum quos aliquid.
+b8839e1e-60ed-4722-b5f5-ea8bc86b6a3c,986e0a90-864f-41f2-8a2e-2e40dc9816a7,30.18,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-30T14:19:51,Eos officiis eius inventore doloremque molestiae accusamus.
+eba8cb3f-fe4a-430a-b171-cbd280ac4f48,3fc3fb22-908d-4ae7-b7b5-6ee4f19141a2,49.71,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-07-10T21:19:30,Nulla recusandae dolor non rem assumenda odio sunt temporibus.
+c7b5a204-ab07-4d89-b972-b2ecc174f38f,8f9882f6-4953-4cd1-aedf-a0093f3ecbbf,35.81,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-04T00:19:05,Veritatis impedit hic laudantium assumenda ipsam provident ducimus tempore temporibus.
+5edc3868-f75f-4045-84a0-e10606022d05,4749ae7c-5c73-4094-8522-20e0c23c82a4,73.73,MEDIO,VALOR_ATIPICO,REVISAR,2026-07-23T12:33:40,Et architecto veniam nisi voluptatum.
+383e4c9b-35cf-4bd1-8ba3-448208a9a48e,e0ca53e0-b9f1-46cf-9c52-e49a974e95db,13.36,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-07-11T12:19:17,Porro reprehenderit eveniet voluptate totam voluptatibus.
+585c0eeb-f74f-4780-bd9d-8e76faf0f18f,35aa9555-c02c-436d-840a-db4c061d1522,0.97,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-14T22:45:59,Omnis provident culpa placeat asperiores aliquid unde qui incidunt facilis labore.
+5cbfef68-d7ab-469b-9b76-3aabbe7ac85d,2712a08b-51a0-4eec-84ed-a1cf6b719a79,82.1,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-11T14:48:55,Consequuntur quo libero rem odio.
+51ab7fd3-52f5-49e3-a9ff-2efcddce0321,036bfd61-e1fc-4e3c-bc52-3ba35267c07e,26.52,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-01-28T14:05:57,Corporis eos in doloremque tenetur assumenda dolor possimus itaque sed.
+380b2efd-ba39-4ed1-bac8-ea0686ffc8fe,431e316a-0653-48d5-a112-dba24ed87f21,3.95,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-17T00:57:20,Optio delectus cupiditate consequatur doloremque iure nam vitae ipsam unde.
+bfc30ac6-fb99-43d0-bb21-4bb31d71ae8d,5186b5fa-eb2b-40d4-8185-ab26b1533d0e,95.85,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-16T16:28:30,Voluptatibus debitis magni nobis deleniti enim debitis labore.
+6788dd24-506a-407d-9b6f-a58366fc3a3d,bf84f0df-8d06-4d62-9da2-0088877e6604,10.25,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-02T07:40:24,Modi eligendi reiciendis dolorem illo suscipit explicabo culpa in.
+4eb028f7-f0b6-4539-9552-0855126d34b6,cd70c050-8f9d-4cc3-a0b0-d9ab6e826534,78.97,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-02-28T19:36:57,Architecto blanditiis provident porro minima suscipit eum dolorum.
+2b727cea-e3a4-4cc5-bfcf-d74d62ea9cad,e92201ba-866f-4cc6-b171-8cb793e8c7d9,63.95,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-05T07:40:04,Dolor voluptatum veritatis ut facere impedit sit quia incidunt.
+81ef3bd6-1cfe-425b-a6ab-74cc31fbfa5c,59c23c48-422f-4dd0-999a-2ae8de402c4b,30.04,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-15T00:38:24,Odio adipisci ipsa velit fugiat vero dolores eveniet.
+f517b3ef-383a-4272-bd89-c2177aec4ca4,33aeef3f-69d6-4b83-b26c-8e53a694954e,82.23,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-05-20T23:58:13,Deserunt fugit quisquam veniam.
+b716a76c-6ddb-4279-be8e-897cc07dcdf4,efbba6fa-ba82-4072-af09-b04e9cc2fcbe,83.58,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-20T14:38:14,Veritatis cumque commodi delectus cumque eum.
+45aa255f-10a2-4b8c-bd6e-84b9fd7e2bc1,aaf917d7-ba79-46c2-9380-f486acec74d2,29.58,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-22T15:05:05,Vitae labore illum quo sequi.
+5bd372ca-30ed-4491-bae9-06d0ba66bb27,48d68d90-21d3-4d9c-9f8f-7895847c052e,67.24,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-07-10T06:40:44,Non vitae asperiores accusantium tempora.
+69bb7887-cebe-4a6b-9b30-5f9fb2e41b54,f4f41763-488c-4404-b6e9-b3945072a448,39.31,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-09T02:44:07,Officia harum quaerat expedita natus.
+010e9b57-ee13-402c-b342-801523255134,6f40c93d-71e0-4244-be7d-f1505fc8cea4,76.98,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-02-12T04:23:14,Architecto aliquid minima nemo vitae blanditiis facere adipisci.
+40de59b2-b5e5-413d-b21b-009ea111295d,e50d8b3c-b754-48aa-abb0-cb84cc0020c8,85.13,ALTO,VALOR_ATIPICO,APROVAR,2026-05-27T10:07:42,Necessitatibus adipisci perspiciatis fugit magnam quidem ducimus.
+ce629365-6ac9-41c0-be8d-bff15a1c9e87,bac40e46-d0e6-4524-92ab-e03fd2a8ea48,76.11,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-23T12:59:59,Laboriosam perspiciatis perferendis saepe debitis doloribus sint doloremque ab nam.
+1a563e16-2a8e-4a10-b1ff-32ceec0e7925,dcae4d26-7e0f-45ae-8204-5bb7d5daaf3c,4.82,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-07-19T04:39:26,Ut aspernatur incidunt et corporis voluptate.
+988bdde6-88a7-4aac-83e3-ffbd31f3d251,ab1703b8-95a8-41a7-9eba-7a081bbd0492,0.47,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-10T14:59:17,Reiciendis dolores in accusantium iure nemo cumque.
+010bf772-fc56-4d4b-83e9-0919c3381939,bd007382-ba04-4e61-8321-e990ee96ae16,95.19,ALTO,VALOR_ATIPICO,REVISAR,2026-02-18T04:23:16,Nobis corporis aperiam eaque ad qui eos sapiente ipsa facilis.
+83bca02b-5690-453a-8ec1-8199e0c5abc7,0bebf263-e62f-4c18-a254-b96ca6290663,55.47,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-19T21:53:18,Laboriosam dolorum modi sint explicabo aperiam possimus recusandae veniam fuga.
+67eaea0a-94c9-483b-a1ad-fd2c180d4a7f,0334eb0c-d710-436f-95c0-0a7c63c9319d,29.71,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-02-22T21:27:33,Aperiam iure consequuntur praesentium nobis aliquid iure magnam tempore.
+9da1150b-e84f-4fb8-8fbe-90ed65e2fa16,52354880-9403-4ebc-ae21-cd38b9ee8283,36.61,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-01T12:13:59,Amet repudiandae occaecati qui laborum placeat architecto eos libero facere illum.
+41edac92-5119-4423-9883-aca9328ea4f8,be5c9928-c937-4e73-beae-96860f34c860,39.1,BAIXO,VALOR_ATIPICO,REVISAR,2026-05-31T12:23:01,Reiciendis et blanditiis iure.
+979bd133-dfd7-491b-8a86-aebaaa784e37,cffd8068-6b40-4fc5-8ab1-43c39b4d2e36,53.4,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-02-10T16:32:10,Cum non incidunt hic modi corrupti aut molestiae eius et.
+9885662a-a86f-4d0c-a764-9b813907482c,79b05f3f-c5da-458b-a7c1-4f551ec97cd9,37.56,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-27T19:54:50,Odit laborum inventore aut laborum.
+1102101a-c6df-4594-b8cd-e4b4c213a740,ae2310a7-368c-45d5-bc52-bddc4d132b8e,14.1,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-30T21:19:05,Aperiam assumenda molestiae odit dolores.
+127f61a8-fc97-450f-9d24-ecde16216a7d,68b63ca3-a634-4592-bba2-12599e3cd72c,30.94,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-21T13:13:27,Officia asperiores cumque harum autem repellat ipsa.
+f1ad8eb8-2a5b-4757-9a24-eae9de8f7913,2017e719-fef7-4202-a012-8fda377a3fa0,68.67,MEDIO,VALOR_ATIPICO,REVISAR,2026-03-10T02:28:58,Eum blanditiis aspernatur nisi iste quos distinctio.
+d51bfd4a-6b10-42d1-b86f-c39c458ae824,2e723efd-a615-4ae1-9038-ddbd59b3c90b,49.59,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-04-29T21:15:52,Possimus sunt eos dolor repellat amet.
+9cb001ca-1aa7-43a0-929a-6af0d581a400,f1d72f70-2857-409c-8a24-5835e38d60c0,76.38,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-02-11T20:56:30,Totam iste eveniet ea quos aperiam ab consectetur dicta assumenda.
+bc521882-4b1c-4eea-9168-fbc2c024733b,9ce008ae-f549-450c-9379-319d1eb01e07,22.28,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-03-28T04:06:39,Blanditiis perferendis quidem quo cum voluptatum.
+20ae0ff2-0799-4c6b-b129-c14207c83fb6,5d2578c1-27fe-41b9-804c-94e9cf4088fb,57.08,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-13T05:00:12,Non repellendus delectus hic officiis officia officiis temporibus illum voluptatibus.
+c8459322-422b-432b-87cb-77a9584c07ee,a9d41ea4-9289-4dca-b0bc-c15da1f83e95,29.31,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-03-15T23:07:39,Ducimus veniam ipsam saepe repellendus enim ab vero.
+b69e784c-30f6-4c15-879c-ac26fbe159cd,c68a054c-6ba7-4d3a-97aa-a20b83b92a62,83.1,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-28T22:11:23,Porro tempora perferendis explicabo mollitia dignissimos nostrum consequatur.
+9566977d-cea3-48a2-a132-cce98bdbd7f4,8882bace-6fde-4d11-8a1a-cf0733d5bad8,56.67,MEDIO,VALOR_ATIPICO,APROVAR,2026-07-02T22:00:50,Quas voluptatem accusantium modi nam perferendis excepturi.
+9a5278d9-5e06-478c-8652-55e434bc4063,1d2bfbf5-3712-49aa-b3a1-f7544e969c92,47.39,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-30T22:41:18,Repellendus temporibus dolore nihil numquam soluta distinctio.
+538f1c3b-d481-4446-bef3-b627381bc9c6,312f6698-92d9-4985-81df-ccfe5f5f4722,66.63,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-12T17:30:38,Minima quod excepturi fugit fuga neque culpa.
+348b92b6-1375-43c9-8622-05f7f4d56133,a2b6c695-a4ac-41c7-98f3-226032b85994,96.05,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-02T02:49:06,Ratione nemo dignissimos sed aut vitae.
+cc8833fc-d54d-4543-a698-6af007307747,23abcd76-6417-416f-9d6d-c961b9c904a6,9.49,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-01T22:31:24,Rerum libero fuga delectus reprehenderit delectus.
+d6e03314-2024-48fb-87b1-36c6251ff870,1e132c1d-7081-444b-aa51-8f988d89246f,24.22,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-04T07:37:51,Sit voluptatum molestias odio necessitatibus perspiciatis.
+9b93553b-7805-4457-87d3-4b67615a57cf,e9d4be29-6fd5-4787-a82b-3f7dac71a8d7,98.54,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-19T12:55:46,Dolorem nemo quisquam saepe nihil maiores cumque voluptatum cupiditate saepe.
+ccc5ca75-19ed-42a6-a606-2cea89016786,6a5083b7-e9db-4f8e-9aa9-029f5dad3793,27.11,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-04-27T10:15:31,Eius hic modi exercitationem dolorum at.
+96a82424-c2d7-48d3-b70b-fa617e038123,a39e3069-4560-4051-8236-b2243b8c9814,0.33,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-11T09:35:57,Corrupti laudantium fugiat architecto asperiores quo.
+5b7d0b78-b980-4137-bb22-cb04d7391edc,12591801-019e-4c4f-b4e5-58eb050b069d,54.43,MEDIO,VALOR_ATIPICO,REVISAR,2026-04-22T06:01:13,Est nesciunt velit modi nihil eveniet ipsum.
+e57aa93b-a2a5-4c70-9f2c-8e45f23b6af5,63273924-8857-4708-9f44-18c89c376d7b,12.66,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-02-09T23:31:29,Inventore corporis delectus autem voluptatum quidem error.
+0aa72149-0036-4d00-8e09-0a22d8f0dd56,af29f08e-ca27-4a71-acac-e5eda6b8b3ec,14.11,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-12T15:55:13,Inventore vitae corrupti eligendi minus.
+042ac331-ad4f-468a-aa49-f91f26aaf475,e57e198c-f0c9-4ce8-8a3a-8d8098d3fd49,36.21,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-09T17:37:39,Commodi veritatis nulla iusto ut eaque facilis veritatis natus esse.
+7719b038-0ae4-486b-8622-4a566ef91e94,7d57b3ad-54e0-4b8d-9a72-66f213cda719,88.34,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-04-30T02:23:45,Eligendi aut itaque repellat dolorem voluptas debitis voluptatum accusantium illum.
+4381fb97-0630-4cd7-af98-5bc8d96c1646,c9f7b0ad-33f9-475c-b0ba-b1a32245a77f,25.88,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-04-11T20:59:00,Nobis et non eaque aperiam tempore minima necessitatibus expedita.
+d2918c52-b50d-4509-9429-c264754c634c,d4955026-b26e-4ac5-825b-076283b11f6d,16.14,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-18T20:47:45,Mollitia exercitationem doloribus atque veniam recusandae id.
+81620ee9-9e7f-41c2-b63f-d05cbfbd4926,bc40c2bc-be54-4acf-a454-3201f77e5116,20.9,BAIXO,VALOR_ATIPICO,APROVAR,2026-06-20T01:26:20,Eius fuga accusantium exercitationem vero facilis.
+7dbc28f2-db82-4146-830e-8dbd9ed703f9,d2c0639e-6ead-49f0-a135-cb19d4382cee,81.43,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-24T02:29:07,Molestiae mollitia mollitia explicabo aperiam excepturi.
+192034bf-3b99-4642-8936-fc1f54451f2e,d70273ce-ae18-41d2-9140-e2ea5d180560,8.99,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-24T14:19:54,Quam delectus omnis temporibus tempora quos harum.
+85f8cbf9-10fd-4195-8522-97ede9a208ac,37a66339-9bd3-4e89-b7d3-a0356dc6599f,38.86,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-03-24T00:45:30,Et ad voluptates assumenda eum numquam aperiam.
+c4d43e48-2f8b-4cd6-b3be-1222afd09c26,5766f8e1-7616-47f7-bdc0-db84d0492b9a,6.35,BAIXO,VALOR_ATIPICO,APROVAR,2026-05-12T16:09:18,Illo totam qui harum numquam.
+8e549735-1055-4588-8e63-6f566fed4362,90fdf9d5-5cb5-44c5-beff-35e8bef86858,7.74,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-08T16:56:34,Doloribus perspiciatis officiis neque tempora alias assumenda.
+68fcfab2-75e4-435f-a93a-131e619d1789,f8dadea1-7c78-414b-a8f0-a7304f3c974e,14.52,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-03-03T05:52:40,Porro magni atque molestias quod aut eum debitis.
+06231bc6-a7f7-48df-a1d6-59526b69605e,ec03fd71-43f9-4d7b-a880-c8a8fed4b80c,7.08,BAIXO,VALOR_ATIPICO,REVISAR,2026-07-03T13:26:13,Reprehenderit impedit inventore laborum minima qui laborum nihil.
+e50b1356-3dd9-433a-9fe0-50ef0851412e,621d7ec8-df38-4ebc-b5b8-331c9cbae992,13.63,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-28T01:21:51,Cum quisquam itaque nemo sequi maiores autem.
+a2ded644-01f4-4b39-96cc-62c60d099e7c,e2ca6d20-dfa3-4f25-9f74-50c096ab20cd,39.1,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-29T19:10:00,Eius magni asperiores quos ex sequi.
+1d137e2a-d148-4cc2-a891-a05ea5b6865a,11c8b16c-9384-4324-8312-cfff4c57adca,56.81,MEDIO,VALOR_ATIPICO,APROVAR,2026-05-12T12:35:50,Vitae maxime placeat vero optio aspernatur et.
+94499d61-d250-4305-9cea-fbf52bb8c6a3,deceeeef-40ea-4a06-bbce-9dd3df332d64,10.03,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-06-22T13:23:39,Voluptatem impedit illo dolore quibusdam.
+ec20d4ce-fbac-463a-9b40-b1fa4948b8b5,e44bcdb0-fb30-4781-a9c5-95059014ce49,8.99,BAIXO,VALOR_ATIPICO,APROVAR,2026-05-29T17:50:44,In cum aut ratione omnis.
+cf2557a8-e78b-4cf7-ad8e-9e0fce3f5634,02bc9342-983c-4c44-b74f-86e111d4fec1,80.92,ALTO,VALOR_ATIPICO,APROVAR,2026-05-07T21:40:18,Non cumque assumenda repudiandae quasi.
+81f2dda7-86ca-4a84-931e-fb5bc39d53f3,27c5db44-cf3d-4e93-aff0-72aaef8b1a71,26.47,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-27T03:44:44,Dicta nisi occaecati a eos nulla provident vero consectetur aut.
+6caca816-85fd-44ff-b887-6d3db3a61e7a,7405d113-6c0d-4218-8e23-f6154985abb1,85.22,ALTO,VALOR_ATIPICO,APROVAR,2026-04-11T23:20:22,Delectus iure incidunt delectus amet eveniet id dignissimos officia.
+65c3854a-cbab-473c-b2b9-af5f61942fa3,fedb88cc-741a-4b98-b30e-d359cfd37899,14.53,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-25T11:16:29,Enim modi hic eius quasi accusantium.
+5da780d0-bc20-403e-9be4-7a22fb26e066,7ef8024f-a41d-4cb5-85c0-d7d28b1863a0,48.11,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-05-06T11:36:23,Adipisci ipsum quidem esse sunt deleniti excepturi ipsa inventore.
+cea9f781-f187-4e5e-9c93-f60236e09dcf,d7048b2f-e45e-48a5-a95a-77f514779afb,38.91,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-04T12:58:21,In quis deserunt eos architecto omnis.
+56702499-6840-44ec-9675-e74cfb57ed38,6930d61a-791f-450d-ad51-2e7eeb5ba6da,11.51,BAIXO,VALOR_ATIPICO,REVISAR,2026-05-19T04:57:54,Ullam voluptate eveniet porro qui quaerat dolorem libero maiores hic non.
+a54235bf-c7ec-4502-9316-74e3257d7f1a,1241dcb2-3973-4a2d-8604-0fffda9d2e3f,94.11,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-01T16:25:00,Iure veritatis eaque temporibus occaecati numquam.
+2b21ded5-4b76-47e2-9b79-29c59f83cdf6,2b32a238-acb8-4261-aa90-95f217434ab9,70.07,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-07-08T07:05:56,Dolor odit ratione mollitia pariatur laborum sequi ut.
+eba7df14-0011-4ee4-b6d4-88e1d7dbc8df,694179dc-6490-4b3b-adfe-3683ba213f50,67.92,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-07T20:06:14,Alias ducimus mollitia officia ut inventore optio deleniti omnis nam.
+85634e5d-3e67-4e37-87b5-baeb290c2cb3,2f5b17fc-fccd-4228-bf53-1f4dd8db12e9,19.53,BAIXO,VALOR_ATIPICO,APROVAR,2026-02-16T07:46:11,Repellendus beatae totam est repellat neque aliquam optio.
+a6f24528-d836-48b8-8683-e74ddf0a48c8,46a5ab97-3cb9-4e93-9751-e7f316f0f951,15.02,BAIXO,VALOR_ATIPICO,APROVAR,2026-04-19T07:44:23,Quisquam recusandae repellendus expedita earum laboriosam.
+0eb8f60f-f696-4d9c-a8b4-c428d12a5956,e8e0e140-1ca5-4f99-8178-69144aef34e7,81.66,ALTO,VALOR_ATIPICO,REVISAR,2026-03-10T05:58:17,Laborum odit reprehenderit veniam cumque rerum neque assumenda veritatis enim.
+84fe1579-b81f-4e05-976f-2d481fcf921f,3605f76e-5546-4804-a1bf-765cea131e46,59.12,MEDIO,VALOR_ATIPICO,REVISAR,2026-05-06T13:26:58,Similique quasi sed unde nihil rem dolor dignissimos.
+5325138b-440f-4236-ad32-1627d788f830,bd3f214a-5f7c-41e7-9274-8bbd93ffae0d,97.36,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-21T01:20:44,Porro id vel eos.
+14939216-a2f7-494a-8852-24796c93bad0,ebd48ee1-3043-4f42-a843-d2d769c5a838,33.28,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-06-19T06:52:05,Ratione minus ut nam nisi eius aliquam.
+90862449-f5d8-4075-b1f2-cdd7a6ebe4ee,8fd12fe8-bbbb-4c84-ae49-0fc6f7888b95,84.36,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-06-19T08:25:26,Vel ipsum totam cupiditate ad mollitia doloribus ratione odit.
+bd13d3f5-dea2-4a12-8a1f-819869b2cb2a,fad0c946-2a1c-4a94-8a6b-e350fe4f154e,20.69,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-07-10T22:32:51,Exercitationem laborum repellendus aperiam facilis nostrum iusto.
+94ed95c8-248f-4727-90a5-6154e4c417b7,e0701895-0942-49ec-a239-235feebff9b2,0.91,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-03-30T13:30:52,Deleniti praesentium aperiam accusamus vitae architecto rem fugiat cupiditate iusto.
+aea81ba3-e850-4846-8c9c-6a160cae8b92,6d0d9a89-6a53-48f3-b94b-9b2e9f75b140,11.23,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-02T21:35:47,Recusandae necessitatibus alias nobis fugit laboriosam.
+5675a3d6-6490-474b-9383-26621d2c79d1,7cb2a500-c200-434e-af82-59bd6af5ccaf,34.17,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-04-19T06:06:17,Totam sapiente aliquid est minima tempore aliquid aut eos dolorem.
+bf4220c9-2016-4a8a-a0b3-187325849887,cdbb652a-fd43-4c84-a1f4-79aa2ac829e2,40.44,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-03-22T07:28:53,Nobis fugiat aut repellendus nostrum a nam vel eveniet.
+b6944cf0-6d8c-42e0-ae2e-1b9fd3f8c769,b9f920cb-3495-4895-8842-f021108f90b9,95.72,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-02-21T21:45:21,Ea totam fugit hic incidunt dolor enim odio minus.
+28382864-0d4b-496c-826b-79d0dbf14035,050f86d7-bd9e-492c-8734-ac781f496125,88.89,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-03-09T06:19:32,Facilis distinctio totam at quam similique iusto.
+15de949b-2cfe-4b44-95ad-9f877c583828,a586abff-baa1-4e0b-96ec-3986154578fe,61.6,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-31T03:18:18,Commodi voluptatem similique atque amet quae.
+5240111a-5304-46dd-ad62-89cbebe45f58,341f932f-ac08-43cc-b0d7-bda55246d1e0,97.24,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-19T00:56:20,Architecto veritatis ab culpa at dicta delectus excepturi.
+b6ff3b39-11ca-4e6d-a983-7703a883cf9a,ad210cac-2ff4-4838-96b8-fa44424b86f3,54.9,MEDIO,VALOR_ATIPICO,APROVAR,2026-06-13T13:07:53,Nesciunt dolores tempore quia neque ipsa odio.
+c2c10df8-b284-4694-826b-7c38bf27bc05,41fdd1f5-3429-4aae-930f-e0cfc010d565,47.33,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-18T00:23:49,Incidunt natus ad odit commodi voluptatibus ipsa voluptates aliquam adipisci.
+14d73c26-ed41-4adb-aeca-e8460c4bb79f,c5ad3261-50c6-4343-b7de-d87b289c8fba,32.41,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-11T18:36:26,Placeat veritatis fuga praesentium ducimus facilis.
+3c804d03-b642-4690-80de-97fab854c8ff,1a904b95-ee47-4e45-89c5-8af511d9f9e5,83.18,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-07T06:51:20,Velit ratione esse saepe repellendus amet magni velit dolores quae.
+fdb7986c-d7ff-4d9c-972e-2b8727b8531e,dfc59078-e043-4da0-a0aa-d217aeb23c27,92.13,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-12T10:01:50,Doloremque magnam odio sit expedita excepturi quae autem.
+f8aedac6-c893-47aa-bd63-a6a6630b34a9,1b58d2c0-c91b-4bda-83dd-894f2dd9d098,98.61,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-09T15:49:51,Numquam eligendi sit iusto impedit molestiae.
+751268be-fef1-4f15-ac75-39a5287f3e3e,133c2867-ce46-4a3d-9ab4-e20340a6b08f,83.77,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-04-12T03:43:45,Fuga velit voluptatem porro amet vitae blanditiis voluptatibus eum.
+75ef5a15-b0f1-42f6-bd45-4301209d8034,609c4c90-5426-4c3d-8067-074c0f855fb2,76.98,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-19T06:24:58,Nihil laudantium necessitatibus natus ad expedita sequi.
+4394689a-d90b-4160-a5f7-6cd3eff1fd80,8c2f3a4c-19f5-4779-8722-bb58351ea06b,73.58,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-05-24T07:27:37,Occaecati cumque in iusto delectus enim aliquam.
+7b15ec77-6e2c-45ac-b76a-1294c621ed08,02a09169-160e-4a1a-941f-018aa608b9ad,40.93,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-02T01:42:43,Numquam quaerat provident minima eligendi.
+53f45d15-f5f2-43e6-ab26-e4d5b982ed2e,bff07038-de39-420d-99b4-85dfb6452d30,99.32,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-22T20:23:21,Placeat ex aliquid laborum assumenda omnis nam eaque quod corporis.
+5c8a5652-5e94-4a94-8856-849e3d64006b,b973796f-83df-4901-9222-da0d5c3fa0f5,41.76,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-04T14:39:28,Doloribus aut tempore est cumque fugit.
+9f77ab9b-8488-4cb5-9e8a-7a12d929f71d,4474957f-c66e-46d1-8b9c-7864e7753115,55.3,MEDIO,VALOR_ATIPICO,REVISAR,2026-05-03T22:13:50,Accusantium vitae corporis temporibus accusamus itaque ipsam.
+1eea1b52-4f06-4069-85f1-42df695c67a5,ab2ef462-113e-45a8-973b-9012c0ab93a5,21.33,BAIXO,VALOR_ATIPICO,APROVAR,2026-07-25T05:44:15,Saepe temporibus ratione accusamus occaecati illo deleniti.
+05c95615-7547-497e-b183-1c743e0e638a,b348548a-e5b3-419f-b579-ce2550791018,39.06,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-05-13T19:06:46,Mollitia dignissimos odit neque delectus quibusdam reprehenderit ex dolore similique.
+21a4c3db-20a3-4d0b-be93-78fb1998d684,1cc58d45-7b8a-4eb1-982f-438b6656d8ce,9.47,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-22T15:17:07,Quisquam minima recusandae quaerat distinctio voluptas fuga doloribus vel.
+0b21b502-693e-4394-a3e8-63cc3b7983fb,d442acec-6f38-4b10-8c94-8a6a6458dd64,65.33,MEDIO,VALOR_ATIPICO,REVISAR,2026-02-16T01:06:02,Nihil architecto fugiat dignissimos id vitae quae consequuntur in.
+f2927c60-3c36-4031-9014-4e939dea5d73,23598def-a637-4dcf-8641-1bebb1488028,84.02,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-30T14:37:12,Officia omnis tempora culpa quaerat.
+419f3ff2-033b-4ece-8958-34411eab9f45,e1a87bd4-53ce-4d71-b4ef-5a49443377f6,80.66,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-05-30T08:31:03,Corrupti amet unde iusto recusandae eligendi fugit ducimus odio.
+dae5cc82-87a0-4b59-86f2-b50e8ff9987d,90c56b16-e0ce-4a2a-9c71-523a10f2cae2,95.32,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-19T11:11:58,Odit iusto enim ratione distinctio quod.
+0d52b61e-ad01-41bf-b5b6-232f05ef4e96,c4b209a6-5b07-4f42-bdf8-b81189dacd6b,62.6,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-15T19:47:26,Illo et voluptatibus totam fugit.
+6e73aec1-8936-4f6d-a6c2-f418506aa997,992d7813-4ee4-4097-b79b-e88e0f6087d5,51.14,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-21T15:15:49,Pariatur quibusdam dignissimos vero quas eos sunt.
+3b0288e9-bde4-4a32-b8fd-5fccd5e37b30,e329730b-b6fb-41f3-8124-b04062e47725,34.76,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-17T21:52:44,Voluptate explicabo in atque consequuntur doloremque.
+087dd045-b766-4aab-b549-1722e1a89a82,d5f9024f-7713-4c67-aee2-4da7ed8dd622,78.97,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-07-02T07:07:27,Corrupti ratione architecto deleniti accusamus magni omnis tempore.
+78f37a4b-9efe-4956-8f37-32b55091183a,a9f040a1-94a1-4bd2-948f-dc78f8252f14,90.6,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-28T14:48:11,Occaecati consequatur necessitatibus consequuntur.
+954fb9d3-97c2-4961-b7b2-89be77271129,b98a3f9f-e2a5-432e-96bc-85e76c21afb3,33.38,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-11T09:46:52,Expedita laborum iusto assumenda ipsam recusandae eaque.
+73ad8b2e-dc6e-4b59-af17-9bc06ef31a63,546b637b-7fef-4d06-b989-54acd72c32dc,29.93,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-07-24T14:05:31,Laudantium est quis molestias veritatis dolore.
+e55b6571-1a71-4a53-8e01-7947d44fbdcd,548aac46-0be0-46ff-9bcc-aad3d1df3015,68.05,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-27T17:42:09,Nihil maiores voluptatem ut aut numquam officia.
+b72bda28-8d6c-4fe2-87fc-525c16837a24,67714382-67dc-44cc-92ff-a8d7faaeb947,11.48,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-05T10:33:39,Quibusdam officiis praesentium consequatur similique minus quasi ea quis sint odio.
+4919a720-1afe-4fc9-b32a-8dfecd9790c5,3b510692-cc4f-425f-8f07-60292bdc1b2f,51.17,MEDIO,VALOR_ATIPICO,REVISAR,2026-07-21T08:55:59,Non iure blanditiis explicabo ad ea.
+eb93c650-9563-4ef2-9957-fceed8e441b9,cb1953bc-773f-4400-8090-4bd053aef068,69.11,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-22T04:27:47,Omnis pariatur pariatur consequuntur modi beatae quod ipsum.
+00818a60-61a2-4ecc-a650-7c55e36244b9,313f7be7-c565-4211-ab3a-fa06b0bada84,77.29,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-07-22T19:56:31,Eaque doloremque quisquam fugit optio omnis consectetur placeat quasi sed.
+e610d814-053a-4f7a-9199-bee555cd2d06,81c6df27-eaa9-4af5-b183-7a597b8cfaae,25.68,BAIXO,VALOR_ATIPICO,APROVAR,2026-01-28T12:23:11,Perferendis dicta dolores totam fugit eos.
+cfbbbaf0-ec2c-4801-9255-26ea148a6520,44584a8a-467f-43b2-8cd6-e7c7830b045a,46.49,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-20T09:09:42,Esse rem magnam eius minima deserunt.
+c57b5180-3e65-413d-9ab1-8a8640411a9e,86f22f32-6c13-4b59-ab85-637e2fe3ab38,67.86,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-05-08T12:21:34,Repellendus dignissimos tempora velit ipsam amet repellendus laborum.
+28546c8d-ebe1-4875-aa4a-8764acffbbe1,d411f3cc-399d-44bc-af67-7205de4e9c47,29.93,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-05-12T16:23:29,Quisquam fugit sit corporis ad.
+c9161973-aba0-4e4b-acfc-fe6a3418031c,d509dbba-8360-43a3-8abd-7ffeda7e50d4,1.76,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-10T15:13:29,Reprehenderit ipsam assumenda magnam eos odit.
+0e71ff94-fae5-4b0d-b7e2-9a7d4d67aaab,fa2f0744-d8b6-4f3f-ab50-e436663e85a6,43.98,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-24T18:49:12,Quod enim facere tenetur at eligendi ad earum debitis cumque odit.
+4a55e638-8776-44c0-80ea-74da19c6ae3d,6cd71b95-f76f-4021-bbc4-fb68ccb30bb0,55.57,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-04-19T20:14:55,Recusandae cum voluptatem delectus dolorem rem.
+624a9ff5-8f06-4f77-a208-105de6e71b1b,d1356f51-353b-4b0d-8643-3766b1ee20aa,53.56,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-02-23T19:20:12,Nihil id nam voluptate quam itaque nostrum molestiae harum.
+b15feb25-ae8f-4fc7-9a52-40233bca7fd9,e224db22-c40f-4438-9b77-1cb24fbd3d4e,55.64,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-07-01T03:51:20,Natus modi sapiente repellat tenetur dolor nesciunt.
+80d91a6e-729c-4dcf-bb1a-a63ced86af28,9b7ec6ff-bbe6-4122-982e-9388c13f87cf,92.59,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-04-21T18:10:43,Iste at perferendis sunt voluptas ad eum eum nesciunt eveniet.
+b82b3d35-880c-44d1-b21f-dc1fe7eea410,348ba91c-931b-4ce1-86d6-38b0cdff390f,29.66,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-20T05:27:44,Veniam voluptas officia iure perferendis nisi.
+fc605407-ae96-4542-b660-dc6ae52d5127,d1d0fc46-ceff-481c-be4d-ef823261575f,5.96,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-18T19:30:17,Dolorem ullam mollitia velit fugit id architecto.
+a0517386-2caf-4c28-ab4a-d5dd75663cc4,949ae910-fd85-4594-9785-506e8ea8825d,77.78,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-12T04:21:12,Cupiditate corporis quaerat veniam provident optio nostrum animi ducimus.
+5837ad67-49cc-4b4b-a283-b3dc74f1b708,15a59148-9cc9-4363-8e33-8f2ffd080429,51.85,MEDIO,VALOR_ATIPICO,APROVAR,2026-06-12T23:11:20,Omnis adipisci necessitatibus labore sit id nostrum.
+8b904e94-6dc9-4600-b2bb-045a1617220a,43b09792-ee85-435b-9b00-284e983ee8a0,86.72,ALTO,VALOR_ATIPICO,REVISAR,2026-04-27T07:44:08,Eius rerum natus deleniti numquam.
+c6e1e603-b4ba-4133-8036-7470e9326457,b1770884-f115-4134-93d1-950240a60063,84.88,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-06T01:30:28,Officia eaque sit veniam exercitationem modi animi architecto sint voluptatem.
+91a160be-bcd5-4a7c-ab58-6625f89ba1b7,d9f1b218-ba38-4bb7-b40c-1e97702e47de,34.71,BAIXO,VALOR_ATIPICO,APROVAR,2026-07-17T22:04:33,Impedit eius exercitationem inventore saepe.
+44433974-e5da-44cf-9664-2dde615c06e9,7e763485-5274-4e11-bb8a-c4eef4a81d95,92.79,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-21T22:35:55,Impedit fugit tenetur voluptatem cumque.
+094dcf1d-e2b9-4137-99a2-66b14a522e5a,b92e2b96-2567-483a-95ce-43e7182e0140,62.06,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-05-31T13:10:47,Beatae rem soluta iure fugit officiis quisquam magni.
+b8a08547-ca1f-439f-a4a8-dae228ec1219,86526720-c388-4bb1-88bb-ed17bbb9a8f2,24.54,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-17T07:40:14,Corporis illo optio similique.
+497c45b2-c74a-434e-ae98-5f5d6f40567b,b0dd0be9-073b-4f59-88d6-da8ee1db1d3d,65.85,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-12T04:22:34,Vitae facere deleniti sequi molestias explicabo molestiae modi itaque exercitationem.
+e9ec477f-ab48-4b17-844d-29ff5210edde,66d30433-eb9c-46c2-9a5a-d31a5bbcd5c0,24.15,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-05T22:26:24,Blanditiis cumque pariatur natus reprehenderit perspiciatis.
+fbf3d184-dd22-4c20-b956-20b584c8160d,0f482b3a-3511-4b06-8946-bfa2c31b4870,69.25,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-23T08:33:27,Accusantium hic molestias quidem recusandae commodi aut.
+8ea2be8c-e5d8-4eea-80bc-0e9da46e8c8f,5a393664-69af-4dd7-9fc0-912245425e2c,71.45,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-05-15T23:39:18,Vel sapiente culpa accusamus ducimus omnis atque neque.
+d3b45900-cf8d-4b55-adab-e31a3e2451d3,c9c37e1a-7301-4428-aed3-9cdc1cfe95b7,34.22,BAIXO,VALOR_ATIPICO,APROVAR,2026-02-07T05:11:11,Sapiente officiis quas eveniet ipsum autem quos non.
+3efcb9c1-3194-4b4f-8e6d-1034c29f7bb4,345fb921-a336-4a26-9c70-680bc987bbbd,41.72,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-03-20T14:41:13,Dolorum eos exercitationem quaerat nobis laudantium iste temporibus cumque.
+2b8aa3c6-9fbc-4b64-afdb-bac5cd5cb531,fd96b6c3-5ca7-4401-9fde-5bcd23e276aa,29.68,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-30T02:42:25,Ex ut alias magnam non dolorem distinctio nihil quam recusandae.
+7e195de5-a0d1-4cf3-996f-3d31c9a1e913,37e168fd-0e63-4fc0-90d5-0bb62faa3c90,30.51,BAIXO,VALOR_ATIPICO,REVISAR,2026-05-12T06:11:50,Itaque eos nulla deleniti laboriosam a nihil explicabo.
+4c9cc745-8c90-41da-8fe7-f7a9fa642de2,7539a05e-e0f8-486e-91ae-b0a21118661a,98.08,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-04T22:42:51,Quaerat hic porro expedita deleniti.
+d50e1fcd-2c1e-4698-aae8-358a14efa53b,01f6f994-3936-4e6e-bab5-cc8ba62acc0a,36.4,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-04-20T11:26:26,Maiores alias ratione eaque ad suscipit cumque.
+79b70d31-c52e-4137-9ed0-31048dda4ddd,0c3356a9-0c4e-42ea-8d52-9bad27b2dff6,80.03,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-07-04T02:11:42,Veniam in corrupti soluta quos quo veniam voluptatum commodi.
+2744628f-f58a-48f5-a235-67feeab388e3,8d4cd2fe-7f68-4de6-a9fa-038f02eebd88,58.39,MEDIO,VALOR_ATIPICO,APROVAR,2026-02-22T11:16:14,Sed libero iusto sit hic delectus.
+e5ecdd71-7be3-4893-a0d0-f86e88d992b4,12945da0-a291-4122-a6d2-9fdc882dcc7a,71.47,MEDIO,VALOR_ATIPICO,APROVAR,2026-05-30T00:29:07,Hic nostrum accusantium ex itaque.
+88717bac-f7e4-4aa5-8585-9be65d1fa069,92773dbd-27e0-4775-b2b8-d7812a075d76,87.7,ALTO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-04-30T07:59:26,Magnam vero culpa nemo magnam qui.
+7720ef37-89c3-4fc9-a7a3-90f6eed30e0c,01b48e84-51a7-4e7c-af3f-d8b4916ef61d,28.03,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-04T19:17:35,Cumque doloremque quos minima iste neque nihil velit.
+10931cae-a3dd-4c24-885b-1f569dfed48f,dd66567c-3814-4a4e-8e59-0149737fabca,88.4,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-20T16:11:09,Voluptatibus corrupti nam nostrum voluptatum dolorem ex facilis.
+61c75d2a-59ea-4ba3-aa36-6e9dbe9f16c6,d20db8d6-d1b2-447b-81cd-0ff2cefe83a3,18.34,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-04T07:41:30,Est sapiente iste ducimus inventore natus.
+bfe76196-a815-4272-8383-e1eed7d174cb,16126b46-fd37-437a-bf87-65c72a37e724,32.35,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-04-12T03:48:17,Minus rerum asperiores omnis ad esse sapiente similique quod.
+29896b97-9ef2-4bae-9925-25c27e01046e,4dbd1aa6-4992-45c3-8d83-f5e4c418bfd8,44.24,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-03-16T16:39:53,Repudiandae corporis soluta iusto magnam.
+be10d0b5-b33c-4696-b25e-27ab892cd5bb,7ee46f36-c228-450d-84f4-31a254968a7f,54.42,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-03-20T07:08:52,Eos at soluta labore natus similique velit.
+7ac49b5d-6875-43b8-9222-49c57407ecb1,530550f1-e189-4b8f-be3a-01d5e476fd7c,85.58,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-18T16:17:15,Sequi cum enim commodi sit voluptatibus expedita.
+509b4c7b-f4a1-400b-a2f0-1d0b6f9353fc,8627480b-9e68-47c7-8d97-388c31b18e2e,84.76,ALTO,MULTIPLAS_TENTATIVAS,REVISAR,2026-02-14T19:31:30,Amet nam dolorum rerum.
+56bffa0e-1942-4ed1-9f53-67d7e5a3beea,2818d5d3-283e-47d6-a59a-24d5d3ac4dab,19.49,BAIXO,VALOR_ATIPICO,APROVAR,2026-02-17T05:32:30,Corporis quidem dolore qui corrupti rerum voluptatum quisquam fuga quos.
+cffbb4a7-ebd7-4d45-8e28-1644f2584696,a9825217-7834-41c0-aa22-e0b095acab50,27.97,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-03-10T16:11:57,Quo id maiores praesentium delectus sint corporis sapiente.
+44ee1037-5794-4c3a-ab6d-207c0e6ad8f2,addfe408-ca26-4a82-9e2e-307bcc3c8d01,33.44,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-08T16:51:36,Odit aliquid molestiae eos nihil qui.
+ed918042-19bb-4f95-a737-46e846b976b1,698603e1-644e-4fb0-8445-df40b4926040,73.91,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-04-23T21:24:44,Id porro adipisci nisi sint nesciunt culpa.
+ac51f40d-bace-4632-8f19-07727d553b51,670e5cb5-8ea4-4d5d-af4e-ffcea60466ca,91.03,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-05-01T11:45:18,Dolores esse quo repellendus.
+125d2321-d3a6-4340-8774-eaee3e0ed503,d3465a93-c93b-4959-9c8e-6c3b1f201235,46.71,MEDIO,VALOR_ATIPICO,REVISAR,2026-05-11T13:12:18,Impedit nemo dolores similique qui tenetur repellat.
+51fc24c4-dbc2-4061-8bb1-919c33add603,a13d0dd1-3687-435f-9622-c788f6f516bd,23.76,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-02-27T14:22:00,Esse nisi voluptate qui mollitia quam nesciunt placeat suscipit consectetur.
+d6fc452c-0fb6-4851-827b-4b98a370ec08,33f3473c-53c9-48f9-843b-b68b08951e4a,74.35,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-28T10:28:15,Quidem quisquam dolorum est dolor.
+56fc4d10-fb29-4801-8786-d13131270e72,95ccb617-fc27-4267-bc4b-4c31fac8fbe3,40.61,MEDIO,VALOR_ATIPICO,REVISAR,2026-07-22T05:40:29,Consequuntur molestias reprehenderit voluptate suscipit ipsam aliquam nihil repellat.
+75eb780f-f41f-4571-9a98-9e7c3fb298a5,e8204dba-686e-4559-81fe-464abae19f10,24.99,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-28T10:01:27,Eaque unde harum perspiciatis consequatur.
+cb57d1aa-830e-4782-9d40-2691d8492b1a,1c2ac894-5023-449b-981a-677d37e20908,50.36,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-07-18T13:14:25,Ullam praesentium porro fugiat.
+e975f207-6bd8-4b95-bd91-b3e1636c4ced,fb156654-2b97-4461-aeac-96f73f857db3,67.03,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-01-29T11:46:41,Non ratione tempora quo neque odio.
+b0a531e5-aefa-4190-9839-b5d67e77b638,8a9f7449-9df7-4e2e-8cf0-dfe4879acaa2,94.5,ALTO,VALOR_ATIPICO,REVISAR,2026-03-12T00:33:12,Corporis delectus debitis quis nobis ad quis quam tempora.
+423bd554-3b9f-4edd-b8fb-beee491e8780,dc6c6d1d-5516-4dfd-8a1e-faee89c4f926,8.34,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-25T09:50:58,Id facere beatae numquam modi officiis quo magnam quaerat.
+7d58dad9-46bb-45c9-bb35-c528d268d2c0,2a91f4b5-f499-4fc7-ac85-0d7d2b907793,8.14,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-03-03T12:20:31,Sapiente molestiae rerum minima nostrum officia.
+3b40ef4d-f888-4a23-9e87-e29da5babbda,6bddc5de-78bd-4fb8-8150-dd89c2d9f2e0,72.39,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-14T03:39:59,Iusto doloremque expedita veritatis iusto dolorum ullam officiis quaerat.
+453665a4-68ca-4f2b-9790-2cd4056ed3c8,116120b0-5734-4ce8-a52b-703d010218bb,93.53,ALTO,VALOR_ATIPICO,APROVAR,2026-06-08T02:21:34,Natus deserunt nulla impedit quasi exercitationem aperiam amet.
+8bfdac33-9c9a-45c4-8523-57eb82cd32cf,b2eb7fc4-09fd-4fb7-9a69-d8069ddeba9f,77.49,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-26T06:42:55,Aliquam quidem praesentium fuga placeat nam suscipit eveniet.
+944a68c5-bc7b-4142-b960-675a6fd44cfd,2fed2218-5de8-43e2-b6d1-46a76bc6bbdf,11.98,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-22T12:41:23,Ut corporis non eligendi veritatis officiis porro voluptate nam et.
+cff329b0-609a-424a-becc-9f22f7ea0387,0fe0d9ca-b8fc-4e0f-a2d3-69b6703633a3,40.71,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-01-27T19:03:38,Sunt voluptas ea vitae veniam minus reiciendis.
+4def667a-8395-414c-b262-2114966454c2,92696ef7-2d8c-4a12-b93a-1fd3f20e42da,80.9,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-01T00:49:22,Ipsa minus asperiores beatae eligendi voluptate non consequuntur numquam illum at.
+6486f785-2697-4157-9966-1573059ee4c0,58e7ea3d-7c4e-43ce-bab0-b10d97aaa825,98.3,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-15T04:26:47,Necessitatibus aliquam autem iusto.
+f2d92d32-d162-407d-a8f7-9d37e36097af,8504ffc9-97a3-48d0-8170-19dacc07285c,21.42,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-02-07T10:57:00,Inventore dolorem rem quas optio dolorum expedita labore repellat.
+bb750a96-6101-4093-9546-5adf07ef2266,1441ee07-02c7-4c8d-a558-f579ed96c332,76.1,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-07-06T01:50:05,Accusamus voluptas iure natus corporis eligendi soluta.
+d5b0abaf-f645-4acd-bf4d-8243e4ac2f92,a6e81d63-e178-49d5-837a-4d5e1bdc1655,76.54,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-02-10T15:19:49,Dicta assumenda sed quidem quis in ea itaque harum necessitatibus.
+0dae508b-0400-41c4-b891-bbcd6c768f8c,84aee396-36e6-4c6e-b907-34f82fa680c1,34.48,BAIXO,VALOR_ATIPICO,APROVAR,2026-03-19T18:56:29,Corrupti rem cupiditate magni hic adipisci ducimus.
+8b1e4bca-0d93-4b13-b8be-de7ab06e6605,4fd4f594-d5e6-4235-a707-f45a02acbddc,93.17,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-01-30T15:18:05,Ratione perspiciatis quidem exercitationem vitae cumque.
+d5058159-b93e-42bb-9da1-d81cff4ab55e,d7eed828-fefc-49d1-84a3-ef03a10313a0,21.84,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-06T01:18:04,Quae libero magnam dolores id quaerat temporibus alias iure porro.
+04488e59-b481-49b9-ab6f-3baa2f2aa0f6,5b83e00b-3567-49ff-afa8-c19dc1dfd22b,49.56,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-14T15:16:19,Ab praesentium ipsa nemo velit.
+09f500eb-f106-43ce-9874-69a2a97a90e7,883c5c3a-1464-4d10-a368-52f5fe910b05,76.05,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-09T15:15:30,Maxime dolores quas laborum ipsum sunt porro.
+1ee03dcd-56bc-412d-b9b0-b9e13043c6f3,e1906ff5-a151-4d39-9e9a-c9af2fc400e5,44.37,MEDIO,VALOR_ATIPICO,REVISAR,2026-07-15T03:02:37,Incidunt modi sequi voluptates suscipit tempora nihil.
+13090144-61f0-4b9a-8e70-d3876f9c33ce,43c86d50-2665-4bb9-9c4a-4530b05db400,17.89,BAIXO,VALOR_ATIPICO,APROVAR,2026-02-26T04:53:15,Assumenda ullam perspiciatis harum excepturi consectetur eligendi consectetur accusamus accusantium.
+17c0e03c-73fc-4348-b356-745f352a5eea,3cd6e603-dcdd-4545-9e7e-12b818e22498,28.06,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-06-06T10:55:17,Sequi quis facilis qui corporis autem perferendis repellat.
+e660504e-2b61-4543-aef3-c5b77d9662f0,a3619d9a-28bb-46c9-b62f-83242b1b379f,61.23,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-09T07:41:00,Earum voluptatum excepturi quisquam saepe maiores.
+7512347d-2c71-4345-8e0a-ae7d3aef6bc1,bf2c559b-512f-4d1d-a051-08f753abb9ce,71.48,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-03-07T15:32:14,Totam ipsum veniam placeat sequi asperiores natus vel labore blanditiis aperiam.
+4bbcc2f4-2ac4-4514-ae94-b3df7750fd83,207b7736-3e60-4692-9f1c-2f72484e06d2,90.06,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-19T05:51:09,Doloribus et perspiciatis corrupti nobis tenetur.
+4252175c-2e97-42aa-b390-9b3f09cda12f,bfd9bb96-7f17-4949-ba67-5c945209fbe7,95.98,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-04-02T08:37:23,Labore officia reprehenderit nam voluptatibus consequatur voluptatem est suscipit sequi.
+c743f755-b1b1-47ca-b40b-7539a426431e,1420f86b-b2af-4ca2-96b7-865f68bfac39,57.33,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-25T20:10:47,Accusamus illum maiores laudantium similique deleniti deserunt.
+4aef4439-9616-4ecf-b392-63144bb699c9,d4082a60-b1dd-4e36-86ba-2adde9a92087,58.92,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-02-21T19:19:09,At dolorem provident deserunt laudantium veniam.
+59101999-02fa-4f42-8c1a-921b7bca077a,40e14ef9-5047-44a0-97cd-fa8544dc4c5d,72.94,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-23T08:15:48,Consectetur repellendus voluptas et et iusto natus.
+059a099d-f868-49ef-a306-11a912cd954a,17ece627-7f8c-4e9b-a80b-e86cac58e0f9,43.45,MEDIO,VALOR_ATIPICO,REVISAR,2026-03-26T16:56:39,Est quia deserunt minima laboriosam quos.
+efc7c0b8-3db2-4ca6-9485-987937f4516e,45133c40-0f0c-473d-a2c5-2e0375bc9e18,57.45,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-03T12:15:45,Aliquam natus aperiam cupiditate neque maiores laudantium suscipit optio tempore.
+1c9b97f3-6c06-4da3-b2a3-1a76b77b1f88,b2729eb8-ee98-473e-9dbb-5f8791d59225,55.69,MEDIO,VALOR_ATIPICO,APROVAR,2026-07-19T13:18:47,Dolorem aspernatur blanditiis porro quas.
+677be1c3-1669-47b7-b306-8c0969d825cc,ee8a33be-875d-4868-9507-08ef900ee80f,65.51,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-21T10:25:26,Rerum tempora alias quas saepe itaque.
+68326efc-9a71-4a21-bb3b-d36921ef355a,b3bf73bb-17a1-4cfb-879d-a35c49ad7ad6,96.7,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-07-21T05:50:31,Quod ab odio animi quo aliquid facere.
+474b7f0d-da85-4a93-aac8-d51d7ef4e0fa,2e4bc136-3c92-4a73-9b9b-44fefb466b41,27.13,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-07-17T02:26:13,Quibusdam facere dolores corporis laboriosam exercitationem perferendis.
+8438ef51-e7ef-4e63-b1bb-d8c4ecd81cb8,80ff009f-52f6-49f8-ab38-af9bee791466,18.47,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-18T08:25:04,Iusto optio earum rerum distinctio aliquid consequuntur fuga.
+6865ed47-4080-44b5-8a4a-777d97fdcb62,3e8975a0-5dd7-41ed-9c58-3ccd11d9c02c,84.35,ALTO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-05-22T10:46:55,Corrupti ipsa est debitis.
+07565800-1c4e-407c-a651-100dfeedd8bb,7c620ca4-cdeb-4a93-93ef-6dd9419002c0,51.81,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-10T10:12:07,Dicta quasi sunt repudiandae ratione natus.
+98cdf747-dfb5-420f-b0da-2521dd359dc6,b2ffd3e2-84e0-4e25-b8b9-7e185630ffd5,10.12,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-04-17T17:04:18,Nesciunt occaecati voluptas nam quisquam repudiandae aut.
+605a99dc-1ea3-4dff-89c4-21c819b60a59,d8bd741a-44ff-49fd-8862-dfe555d8f1df,35.82,BAIXO,VALOR_ATIPICO,REVISAR,2026-06-15T20:36:40,Maiores dolorem libero totam eligendi illo.
+447c4dec-7ca5-4bf9-8239-f095034b0c8c,3fb896f6-2e77-4002-a1c9-6d66c42da9d6,39.17,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-04-12T08:35:16,Dolorum deserunt quasi blanditiis iure doloribus amet quasi omnis delectus nesciunt.
+2d3588e1-fb5a-4264-b2ea-e770d6382920,f315ef73-b999-4bbc-9c59-c3c7dc847ddf,83.69,ALTO,VALOR_ATIPICO,REVISAR,2026-07-10T17:41:15,Voluptas blanditiis excepturi perspiciatis sint harum quidem quia facilis ducimus.
+163a9173-9ce3-43dc-8951-f8a9bd63cda9,e2058d31-33e4-46e4-8f93-0a4bee07d1c8,47.65,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-07-09T17:51:49,Fugiat dolorum vitae necessitatibus iste non quidem earum.
+c5022085-7d70-4d3d-8b20-e1648c623733,fe7643c8-df34-4f98-bbf6-3d48758cb344,68.9,MEDIO,VALOR_ATIPICO,REVISAR,2026-07-18T02:42:53,Mollitia totam itaque ipsum necessitatibus.
+34756594-167a-487d-a346-f82af6dc6255,ce2999cd-17e2-4b0e-9e7a-18bae2c26371,3.08,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-05-03T00:46:29,Quod cupiditate voluptatibus accusamus ullam autem facilis ratione.
+91d93af4-f3dd-4e89-b9bc-8896996314ed,6a36d8b7-1d89-4ea9-8119-50bd77a67784,15.26,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-05-10T00:58:32,Ea labore harum totam.
+5876d75f-c166-472e-8dec-d1cc25b261e4,04a2d14f-23b4-48db-8cc9-348735f25e1c,96.89,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-07-04T21:45:22,Saepe asperiores fugiat debitis vitae veniam in ipsa nam.
+03000004-6909-4802-b84d-93d79036c287,1d9703fa-39af-4f79-865c-171449b0cfa0,65.36,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-06-03T10:14:35,Fugiat hic illum libero.
+ced12f44-253f-4f8f-8a47-eeab10426cdb,8799a3a1-9539-43cd-b235-7b1730ae2ac7,11.51,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-06T07:18:25,Exercitationem quae non recusandae recusandae assumenda ullam consequuntur.
+09f4ea98-b18d-480a-8859-9d8da7fa580e,a323759c-7192-4d8c-a114-ca1e05825d4c,37.17,BAIXO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-20T15:42:52,Animi adipisci eligendi doloremque voluptatibus.
+8f91b5b1-02d5-431c-9c34-a4bbd4aa4222,93ff359a-0aa6-4620-a6a1-e6413818f943,54.89,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-01-30T04:33:40,Suscipit in voluptatem blanditiis porro.
+5b5dd323-f8b2-47f2-af9d-36a7355aa46e,6fc06e4a-f6eb-41b4-a722-885d3f69fe5e,45.42,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-03-14T00:55:44,Reiciendis sapiente voluptas aliquam esse facere veniam at magnam ullam.
+a8f21013-2fc0-417f-a755-c565e9e7f0d3,84ebb91d-f1b2-4485-8f69-9f4756b531ba,79.07,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-02-13T09:30:33,Aut est similique exercitationem culpa quos quae provident nam ab ut.
+e152fc19-6a62-4bdd-8263-4637a0ac4249,2d2a21bb-4f4d-48be-8f65-d8a571e01e86,38.54,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-04-17T14:19:01,Eum ducimus dolor sed doloremque excepturi eligendi sint dolore sint.
+4bd8c9b5-a2fc-41c8-84ef-6bc7515318bb,6ebb9be0-4c4c-4055-ab2d-03203ce64072,47.19,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-17T03:06:28,A et consequuntur ea veritatis corporis ea maiores.
+451c6839-cf06-4a38-ab17-a51ed2b74f62,df048647-23fd-4e3f-936f-e0cd834dcddc,60.26,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-05-29T16:07:29,Eum cumque quas molestias voluptatibus harum eum ad dicta.
+fd862f81-8f84-4e10-a03a-c5af5bbce3dc,aecb9129-24fb-4529-b0ac-8b57f91df400,48.36,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-06-28T02:04:09,Tempore et blanditiis voluptatum ad quisquam dolores rerum.
+f72a9224-bead-4bed-8425-e3d1a6c22f7d,90e094cd-da5d-41c2-a580-69c328c5d250,67.67,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-02-27T07:07:58,Porro sit unde dolorem facere reiciendis soluta iure sint id.
+e771bb49-9309-4b64-9b89-299700cdbbd6,cb4b4417-bd17-4313-9280-318ac8764a9b,45.58,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-13T22:11:39,Eveniet recusandae vel debitis dignissimos distinctio.
+79bb903b-075b-4c15-9d95-30d150ae7ef2,ab35f7ef-4554-4f6a-9501-72266e3be744,36.88,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-05-31T00:05:02,Provident quos quas vel corporis expedita cumque facilis.
+520490cb-2eba-491c-a6e7-261fe43675eb,03d34dfb-af79-472e-b418-9371f1a0ee08,83.33,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-05-17T17:20:50,Facere molestiae itaque qui magnam vel molestias nobis.
+f5666eb5-3e7e-4aa8-ac71-2cffc1379baf,5f84f1a9-ea10-49f5-bcd2-eada550bdca3,6.12,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-20T15:13:39,Aperiam ducimus expedita reiciendis ducimus dicta assumenda quod.
+e2c2bc48-731d-439b-b7a3-5803992949e4,75e8f931-afb2-4e80-8ed2-27317a232b83,51.02,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-22T06:49:11,Magnam nihil voluptas magnam amet a.
+348d0765-8003-4f6b-a0db-305d55d8adfd,bf9fa524-ddbf-43ba-ba19-9d2e0a24cf7f,59.66,MEDIO,VALOR_ATIPICO,REVISAR,2026-06-26T11:48:31,Maiores id distinctio similique aliquam distinctio eligendi debitis magnam.
+a0208598-bd46-40ac-ada4-3ff230182a7f,f6017484-3eb6-44ff-9b72-6bc9ea9adf6e,78.05,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-05-12T05:34:03,Quod fuga error consequatur vitae quo aliquam dolores.
+aed0ea25-6600-4ecb-bbb5-065ed5238e2b,e9fcdacb-a8f2-4a48-8f51-e1dde0c8de8c,11.41,BAIXO,VALOR_ATIPICO,APROVAR,2026-03-30T08:20:32,Aut totam eligendi assumenda voluptates eius eos incidunt.
+f459652a-0ad2-47a4-b72e-e4aa93d5e2dc,a368b624-5571-471b-88bb-4bbf44f11751,98.61,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-30T13:26:53,Ipsam ea nam ad consequuntur consequatur.
+5096b8d4-a077-44e3-afe7-19535867194d,bb47708d-4a7f-492f-b89a-6a1fe00304ad,99.69,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-03-18T15:06:54,Repellat fuga neque excepturi voluptas fugit deleniti accusantium.
+0beaca0f-371f-487a-8cc2-45d6bbbee42a,51c83e36-b7b2-4cc6-84b9-8b36e8d9a55a,58.38,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-11T10:21:45,Quo quae sed architecto ea saepe aspernatur.
+b24b0261-2ffe-4d8c-9843-ff08fba86ad5,39438e56-4a65-4799-b51e-cdc120d4796b,30.08,BAIXO,VALOR_ATIPICO,REVISAR,2026-02-02T00:02:31,Illo asperiores nesciunt repellendus consequatur fugiat in porro esse adipisci.
+2ba5ae18-0916-4d93-b635-44a964cf1c63,4aaf6606-ddf2-44e0-9de2-a3c3998f90ca,58.93,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-06-09T10:24:54,Vero aspernatur nobis nulla officia praesentium excepturi aperiam delectus.
+99f5ea71-a6e2-46ab-a5c0-4a8202b1e506,c590b09e-230b-4249-a52c-2ee893970a2c,2.45,BAIXO,VALOR_ATIPICO,REVISAR,2026-03-22T11:52:49,Impedit harum laboriosam labore dicta iusto amet animi sapiente possimus.
+7ae094b8-88bc-4290-8cab-97d8a41eeee0,73d43982-2d27-4344-aaa0-39530aa8dd3e,26.87,BAIXO,VALOR_ATIPICO,APROVAR,2026-03-01T20:26:45,Aliquid dolorum quae veniam consequuntur velit tempora.
+e9eaffaa-0d62-4551-9c8d-e8bb72a5ef84,c7a471c3-32a4-4c50-bd4a-1c80ec42805a,17.93,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-12T20:07:01,Labore id rerum voluptatum facere.
+2e40d30d-08cb-446c-8576-e738f24cf45a,f6d29a67-9f49-4ed0-bda9-260ff5e2b018,44.96,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-03-18T13:01:41,In dolores ad a quas nisi dolor nisi enim.
+2b7c8c0a-6051-4b1f-a687-42b59579d576,01674d70-9052-45d0-a600-ae4f2c87bbda,55.28,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-15T06:55:23,Non minima facilis exercitationem officia doloribus.
+111b05a2-5300-4ab1-b60f-1b1432b5a762,cb988ceb-7c74-4b7b-baed-5c8657e1ace5,63.53,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-07-01T03:57:46,Ea vero nisi veniam illum cum iure veniam.
+c3000c64-a5fa-4130-8313-e40b4568e2df,a99d5d1c-aa66-4e37-9bfa-f43ca28c585d,72.79,MEDIO,VALOR_ATIPICO,REVISAR,2026-05-08T06:52:51,Sed velit in harum iure quas incidunt fuga.
+02544822-76e2-4a78-92b8-64c9053521a7,0e5db9f0-7de7-4179-b40e-ef6abde7c88f,18.18,BAIXO,VALOR_ATIPICO,REVISAR,2026-03-15T05:08:45,Accusamus accusantium illum dolorum modi aperiam unde laudantium facilis ut.
+5379d231-7995-4d46-8c75-e69e3210db8c,3c29da97-78b6-499f-a5ce-455bcb3651eb,96.64,ALTO,VALOR_ATIPICO,APROVAR,2026-03-04T11:12:11,Veniam minus quis voluptate ratione mollitia quisquam fugiat.
+0e2e7570-44e8-405e-b883-ef5c9b6ea008,fc08fdfd-234e-4eab-9443-6ba6ec47a73c,65.41,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-04-03T16:16:45,Nam quod asperiores sed dolorum labore eum culpa exercitationem reiciendis.
+9f7c756b-5854-4621-99d0-86321ed8d199,343f792d-2fd7-4890-a3e2-874537a72bec,52.21,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-14T13:17:28,Blanditiis assumenda eveniet voluptas corrupti nobis hic temporibus suscipit magnam.
+df5c509c-d002-4bad-b7b0-74bf65b6abfd,4628ebe0-17db-459a-9dbb-83b7eef4d41b,59.08,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-07-11T01:35:20,Suscipit iste reiciendis nulla eum quasi dicta itaque totam.
+c8cb6627-b419-4198-ade9-08810b88b296,34c94e02-00df-41d2-9613-20f11acdacaa,57.53,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-04-11T12:23:28,Culpa officia cupiditate sequi sed.
+9d8cd41d-024a-471c-a037-4ec76d195af3,c7bd5d56-1f30-45b1-9b9c-b4fe24805156,33.93,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-03T18:27:32,Assumenda excepturi vero dolor architecto error pariatur eveniet nihil dolor.
+fbc11630-824f-462d-a8c8-fdc87681f563,6013f148-f784-402f-ac8a-6b9b57b24ae4,2.16,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-06-03T09:34:20,Occaecati tempore eligendi nisi architecto temporibus explicabo blanditiis.
+e93d07b1-82f1-444f-898a-48c23941bb24,d4397eca-ce4d-463e-8f09-836d34b8190e,64.97,MEDIO,VALOR_ATIPICO,REVISAR,2026-03-28T16:25:44,Expedita assumenda nisi quis nostrum.
+45324a3c-02e6-444a-a151-121fd586726c,07ea27e0-9801-4bd9-90b2-dcec6c81a019,2.74,BAIXO,MULTIPLAS_TENTATIVAS,APROVAR,2026-07-20T05:43:58,Ipsam ex et fuga modi id veritatis sint doloremque quo.
+11866667-d370-47ea-a204-ec55c596b1a6,c9a5061d-b535-475c-88c0-94e24661c4a3,35.65,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-15T23:12:40,Corrupti molestias corrupti omnis iusto quas aspernatur ratione beatae nobis.
+6cd6bdc5-9c5a-4efa-9d15-a93701874084,ed534a34-dbbe-4cf0-84fe-82375e3ca008,79.57,ALTO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-21T19:27:14,Reiciendis suscipit ex consequuntur odio.
+d9aad9e3-d44a-4174-aedf-8cd7e1b46c80,235559f7-7278-4601-ad33-a8c9b7707185,7.29,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-06-16T16:13:21,Magnam dolorem dicta officiis consectetur dolores.
+79b2d6c3-40f5-4dd1-be1e-acc7e885dddf,6f3bbacb-356e-4435-a23b-268d6d7aa8a2,73.22,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-04-15T15:58:48,Inventore at autem rem animi.
+b2380f70-9295-403c-a59d-09222fd370e7,3c3eeb72-4cd8-4baf-a646-36f966122027,45.28,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-09T23:25:53,Ducimus sit repudiandae atque ipsam laborum.
+da122760-c0a2-4696-b5c6-b99e1885ec67,b55f567c-bb06-4e67-b83a-2bef0db9391a,62.85,MEDIO,VALOR_ATIPICO,APROVAR,2026-03-24T07:33:13,Atque saepe hic iure similique.
+f6532a14-1dc4-44b6-bd5c-30ad6646036b,54c2f915-810d-4216-9675-43e60e60bbc8,63.11,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-03-20T05:47:04,Voluptates modi rerum reprehenderit dolorum ratione autem eius ut.
+7a798069-b231-483f-a1cd-397cbec18c70,17dd6e9c-2f9c-490e-a7e3-469f069a515d,24.25,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-06-19T08:46:35,Facere odit quae architecto id eum.
+62ba5175-aceb-429f-a723-074c37d06cd9,46892080-c6e6-4181-a958-b2b3771806e9,21.2,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-03-18T19:19:46,Ad id at officiis illo a saepe quod quas exercitationem.
+a92480da-44b2-46f9-8f75-a8590afa828e,361f41a6-55fe-48d9-9f8a-652dfdef4ae0,5.82,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-04-25T15:49:22,Nesciunt necessitatibus consectetur dolor ab sed officia ab numquam ut.
+c9e94ce5-1693-4a62-bd4a-a5e5aa786f0f,96fba6bd-1dda-48b7-b1fa-730099237ef1,70.0,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-22T13:51:39,Perferendis voluptas corporis aut assumenda et aut occaecati fugit.
+1025f612-cf42-44cf-b537-e518f40ad87f,1bada074-289c-4ad1-acf4-7f8c3e230a14,39.04,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-07-04T23:55:51,Enim nulla iure hic voluptas tenetur esse.
+dcf9b832-faaa-4f2a-b5b2-2a2e3139cfb6,87d7a5c0-d02c-4078-bf76-fe257a5b5fa2,56.14,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-01-31T23:45:51,Voluptatum blanditiis maiores inventore sequi deleniti iure dolores.
+92e6aa9c-4018-44b9-a92b-d49058d9d118,bbc38ca4-f4cc-4b9b-9868-14ff54e92dcb,94.79,ALTO,VALOR_ATIPICO,REVISAR,2026-04-10T18:04:37,Laudantium fuga quasi beatae praesentium numquam molestiae beatae aperiam reiciendis.
+c2dded91-d6c1-4a37-8c29-c98a8f88f89e,8676db25-8c74-46eb-ae23-141e5039c884,77.26,ALTO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-02-08T15:50:45,Libero saepe quos sed nemo.
+e201fa39-59f8-4969-96c6-8172f9e60824,d7f72480-24e4-478a-a0b3-9dd46e4a0949,71.22,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-07-16T15:46:07,Nihil voluptas explicabo dolor officia repudiandae enim laborum quaerat impedit.
+f9d9334f-30eb-4189-9def-82a4a5424c5a,0952c4df-1e5f-43c3-b8c0-7509f654df24,72.29,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-04-01T07:03:58,Adipisci reiciendis id vitae autem voluptatibus.
+dcc08ed2-4e9b-49b7-bee1-4a29c0bec67c,49fe8e2b-e402-4a5c-8c67-6f3e422fe2d2,54.63,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-14T09:10:39,Hic tempore illo nisi vitae fuga a iure ipsam culpa.
+a3601bea-d1f7-4ed0-8bc4-0bd9329c046d,3dd8188e-d9ee-4ae2-9b68-f45646596485,74.66,MEDIO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-05-05T14:27:57,Corrupti beatae odio eveniet ea dolorem vitae.
+e4e00cd0-dc52-45e8-95db-65d34de604fd,16b12c0e-1994-4719-a93d-ea62022ff36c,44.06,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-02-06T00:01:30,Incidunt magnam dolores suscipit minus.
+73c1d632-179c-4c51-b5b4-10092c01b9f8,a9fa1f55-2e0f-43a6-8d81-e68d364dd15d,70.14,MEDIO,VALOR_ATIPICO,APROVAR,2026-07-23T02:50:54,Iusto architecto ducimus alias architecto corrupti occaecati incidunt quo.
+4753f97a-b9c7-40b4-9100-5330bcae7a07,62f87da9-13d5-4797-ab4f-c3f37fe65200,81.51,ALTO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-02-04T05:48:55,Repudiandae explicabo alias vel inventore adipisci nulla.
+cd6431a8-27cc-4ecd-bb3a-ff7f25d2f7a5,3da14018-ab57-4cd8-a5cd-12db8de13cc8,24.53,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-05T15:09:24,Fugiat illo non dicta quae earum doloribus eligendi.
+b5872b15-43bd-4e74-831c-8ea338d81c04,713e6482-ebe1-49ba-9b53-e3f74c4a6493,56.52,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-03-20T11:36:27,Voluptatibus necessitatibus et veritatis ipsam architecto iste rerum quas.
+5c509779-1066-45b1-a538-7c8284709ed2,1fd536fc-e403-4c14-b831-24fc0de07b72,5.08,BAIXO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-27T22:09:33,Pariatur ab iste laudantium quia molestiae soluta.
+f6ebbaaa-520b-4a23-bf1b-985cd319e811,e59228d8-7c90-4fc7-b63d-d3b2f1933fbf,24.13,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-28T03:25:08,Maiores neque quae nihil delectus reiciendis provident ab nemo iste.
+a18c1713-6b63-419b-ada9-2a31af647f54,1b601b2c-6d88-4e64-bce4-5f23b8197bc9,75.73,ALTO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-23T02:30:14,Tempore voluptatum illo at consectetur assumenda fugiat corporis voluptatum.
+a0dd0193-8366-4c0c-af25-0a5a79c9f862,a4f32a8b-8596-46b2-b7b9-9035e12e2b85,65.92,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-04-27T15:25:04,Maxime atque voluptas molestias libero itaque incidunt delectus.
+f1c4dfe3-3128-4060-96a9-ab2ee6e73cab,301d5e2e-bd36-47b5-871e-2c6a23cc6733,46.37,MEDIO,MULTIPLAS_TENTATIVAS,APROVAR,2026-05-19T15:53:56,Mollitia ad repellat occaecati fugiat non esse consequatur.
+e90c550d-aeb3-4f75-bbf8-ea58849cd1fb,4412204f-22f0-416f-bcc3-9fe64099491a,60.68,MEDIO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-02-13T04:03:10,Animi nobis deleniti eligendi amet.
+f708767d-a693-41c4-b6b5-230d368d8265,4a96d4ae-aef4-4e33-a822-128f707a84b4,88.89,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-01-31T07:12:59,Earum ratione nam architecto blanditiis iste.
+d53892d1-b7e7-4376-9ece-967e535656e5,21bca0b7-57cb-44e5-aa62-810246f6c4c9,43.02,MEDIO,VALOR_ATIPICO,REVISAR,2026-04-24T12:16:37,Debitis quia quidem hic earum porro saepe quis fuga voluptas.
+2885ab4a-fb0e-4093-b4ba-31c886f59414,9fa6963a-ae36-4d77-b317-e59339c263b4,15.66,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-07-16T03:28:28,Veritatis eos laborum eius porro optio pariatur nulla.
+c426d74d-f6fd-40e8-985a-d1d8d168953d,4ed40883-698f-4e05-9538-3b3cd048f96b,61.56,MEDIO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-04-11T09:20:28,A vel reiciendis nesciunt dolores dicta nesciunt officia similique.
+e0fa4f1c-1c38-4deb-8f38-27a313fdfe3e,daa69e08-f655-4ca1-bdaa-3aadff620587,35.11,BAIXO,VALOR_ATIPICO,REVISAR,2026-05-16T06:40:18,Suscipit iste esse sequi ducimus veritatis.
+c4c82c90-b278-4ba6-af09-3321afeb8254,27494b61-1c1d-48e3-bef5-9b46cacd17c7,13.44,BAIXO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-05-10T19:42:18,Sunt consequatur sed voluptatum accusamus inventore sint impedit ea.
+9fd07411-340e-4207-93a3-2ec994781256,0550b357-8dca-4bb2-afb3-559cd4163dec,5.32,BAIXO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-29T22:22:28,Sunt ullam culpa quis eos vero totam.
+48768d47-4fa7-4112-8439-13a3949fb5e8,fda204ae-dd35-4bcf-b4d3-ab9a547dc916,19.04,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-04-27T22:21:19,Recusandae possimus deleniti quasi dolores.
+363a001a-6ced-47b1-892c-ee86f8392d35,1369e1af-9a3b-416c-9fda-1cde8eec4364,96.73,ALTO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-01-29T18:10:58,Perferendis quae vero corporis quae veritatis cumque reiciendis.
+40b3eb32-e0ba-48c6-bf66-8e6221c8c521,a8cf9164-734f-49a2-ad98-9efcad30d122,86.38,ALTO,VALOR_ATIPICO,APROVAR,2026-06-05T00:22:12,Ipsam consequatur veritatis illo quis dolores.
+08e87df8-cdc2-4815-8ce4-5d389e5ddc0a,fb7dde5e-3e8a-409e-8fdf-c6906bc50654,69.13,MEDIO,MULTIPLAS_TENTATIVAS,REVISAR,2026-04-17T15:21:58,Libero cum cumque sint repellendus nobis.
+9d767f46-973b-4b92-8317-2cfaf3d0bcaf,f09b48b5-26bd-4fff-8853-ee7db536b635,91.82,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-03-03T00:47:01,Quidem distinctio nostrum rem aut magni rerum similique non nulla.
+4cf8d0c7-78f5-4c95-b181-970c74e49164,662cbaac-c5e1-4c7b-8f36-21810e0a500c,62.97,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-05-09T10:34:37,Tempora amet quae natus delectus pariatur.
+2e8f98e7-83c9-4271-a744-fd933595c303,bbff57d5-816f-4c4d-8057-0b624e779198,77.45,ALTO,VALOR_ATIPICO,APROVAR,2026-04-17T17:51:25,Minima modi possimus illum quos nemo minima.
+97799c69-8fcd-49e9-83d6-fdbd9313779d,bb7ae10a-ee9e-414b-bee2-13f89d15df6b,11.37,BAIXO,VALOR_ATIPICO,BLOQUEAR,2026-02-18T00:10:05,Aspernatur laboriosam sunt quasi ea excepturi quidem.
+1772f977-917e-463d-b00d-23000392b10c,8af5d811-f540-4c91-b61e-46b8397296a6,84.51,ALTO,MULTIPLAS_TENTATIVAS,APROVAR,2026-02-25T13:41:20,Quibusdam debitis blanditiis fuga minus odit tenetur.
+25fc3d31-0354-4e43-99fa-ab064b233428,ce6cf298-7e4c-4251-96c5-454b5815a104,33.55,BAIXO,LOCALIZACAO_DIVERGENTE,BLOQUEAR,2026-03-25T09:33:33,Vero necessitatibus ullam facere minus eos repellat.
+7c2aef39-3d8b-4af5-8262-d7bbc338b79a,56ff31b1-a289-4b9d-b29d-dc79bf42c654,4.37,BAIXO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-05-01T15:58:28,Ducimus rerum saepe sequi facilis aperiam ipsam repellendus.
+4e34cc5c-b7d2-4f4f-b376-ece13d89c50e,6dd9392f-e56d-49bc-826b-a6843b6daf9d,43.77,MEDIO,VALOR_ATIPICO,BLOQUEAR,2026-02-10T11:19:37,Ad ab officia consequatur minima numquam numquam alias.
+7522cbbb-b65e-4eb1-afda-0f01c299d138,b972e54f-2953-4bae-a2b6-bd2506ba4c68,50.6,MEDIO,DISPOSITIVO_DESCONHECIDO,REVISAR,2026-06-01T08:04:46,Delectus delectus unde dolore officiis voluptatum facere recusandae voluptates asperiores.
+bd03546c-f8b5-40ea-b5f6-357bcc9b020f,8d2f4a75-ca86-4c7b-bbf3-6012188922dc,83.38,ALTO,VALOR_ATIPICO,BLOQUEAR,2026-03-13T20:07:26,Quidem placeat similique error neque earum.
+32d066ba-763c-4bf4-8148-3caa29db3a1f,64c153b4-eeb2-474d-966f-4fa80271b3dd,29.72,BAIXO,DISPOSITIVO_DESCONHECIDO,APROVAR,2026-05-25T05:54:54,Sed mollitia iusto amet eveniet amet.
+a0817660-2bce-40ce-91fd-ee910c223c8a,b81f2d1d-7765-4807-aee6-d5f011c74bd5,46.89,MEDIO,LOCALIZACAO_DIVERGENTE,REVISAR,2026-04-10T20:14:13,Eius illo delectus amet culpa enim rerum adipisci.
+d7035f9b-1d61-4073-ad32-8d67c968ba9c,3eaebd00-516e-4445-8e5b-4ed1dba0c2ef,73.85,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-29T02:19:21,Culpa hic ullam architecto suscipit reiciendis eaque reiciendis facilis qui laudantium.
+09c15994-dd02-492a-b6dc-ace85beb211d,f567b631-9530-4b36-803a-a551d37a5eb8,57.32,MEDIO,VALOR_ATIPICO,REVISAR,2026-06-17T11:23:28,Veniam dolorum reprehenderit debitis non dignissimos rerum animi rem numquam.
+f78db244-1759-4c1e-886f-b76213bc1725,37447c26-5866-48e0-b33e-c79efc86b7a7,23.01,BAIXO,DISPOSITIVO_DESCONHECIDO,BLOQUEAR,2026-02-20T03:21:37,Delectus harum explicabo illo quia amet praesentium officia architecto.
+19ed3ef2-b24e-42ce-b36b-c772bb228bb3,207d450b-fd5d-4eea-b5fe-f057e6196bf6,42.92,MEDIO,LOCALIZACAO_DIVERGENTE,APROVAR,2026-03-15T18:38:50,Ullam cumque fuga ab assumenda.
+a1003705-f8a1-4476-ac4b-0a95e3b14b1c,8bf9784a-bd09-4ece-9720-9a3c1bb832f5,45.07,MEDIO,MULTIPLAS_TENTATIVAS,BLOQUEAR,2026-05-21T04:15:43,Fugiat perspiciatis quas consequatur sapiente a sit.
+e7249274-0174-4b4b-add1-1e5e0c949d5e,c2c61616-d27e-4452-94ba-6d5b5225fd5e,69.94,MEDIO,VALOR_ATIPICO,REVISAR,2026-07-17T07:23:45,In esse iusto at animi tempore accusantium quam quibusdam vel.

@@ -1,0 +1,22 @@
+project:
+  name: case-senior-data-product
+  seed: 42
+  locale: pt_BR
+
+output:
+  base_path: data/landing
+  format: csv
+  encoding: utf-8
+
+volumes:
+  clientes: 1000
+  contas: 1200
+  cartoes: 900
+  transacoes: 15000
+  eventos_risco: 600
+  estornos: 250
+
+batches:
+  initial: batch_001
+  updates: batch_002
+  late_arriving: batch_003

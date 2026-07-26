@@ -1,0 +1,28 @@
+[project]
+name = "case-senior-data-product"
+version = "0.1.0"
+description = "Data Product com arquitetura Medallion para processamento de dados financeiros."
+authors = [
+    { name = "Anderson de Alencar Pereira", email = "andersondealencarp@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "faker==40.36.0",
+    "pandas==3.0.5",
+    "pyarrow==25.0.0",
+    "pyyaml==6.0.3"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==9.1.1"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-v"
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"

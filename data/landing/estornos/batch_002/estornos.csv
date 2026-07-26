@@ -1,0 +1,41 @@
+estorno_id,transacao_id,valor_estorno,motivo_estorno,status_estorno,data_hora_estorno,observacao,source_batch
+81660cc1-01ae-42fb-8a22-5cca102fc539,c8ddfaa6-2769-4628-998d-ffec98509aca,2541.91,CANCELAMENTO,NEGADO,2026-07-25T06:40:48,Suscipit autem quis reprehenderit voluptate.,batch_002
+0b5b8d00-bcaf-4694-b76a-40161a42cd27,8c6e817b-9920-45cf-a0e5-77ce5fad7c12,15471.32,PRODUTO_NAO_ENTREGUE,PROCESSADO,2026-07-25T23:19:00,Asperiores voluptate accusamus ullam iusto.,batch_002
+cf43e806-8c25-4356-b5b1-3107e691d43a,202a8892-151e-4af4-9642-7e3c169bd83a,14529.94,CANCELAMENTO,SOLICITADO,2026-07-25T23:19:00,Tempora voluptate dolorem incidunt ad illo optio inventore.,batch_002
+240f9598-41c9-42f8-84bf-dc4ac01faed1,a43f608f-603e-49f9-92e9-bc2bc889d1e8,11034.58,COMPRA_NAO_RECONHECIDA,PROCESSADO,2026-07-23T18:24:12,Adipisci incidunt praesentium placeat.,batch_002
+4e1ad6c7-7bb9-48f3-8a55-f4cda224431a,d44146b5-1596-4855-b256-2bddde8c5ff9,6766.61,PRODUTO_NAO_ENTREGUE,SOLICITADO,2026-07-25T23:19:00,Dolores facere consequatur.,batch_002
+44b2b6b7-afff-4c0d-bc0d-0913415a1f03,b03775db-f74b-4e27-a08c-6d90dad9fc85,2073.29,COMPRA_NAO_RECONHECIDA,NEGADO,2026-07-25T23:19:00,Maxime aspernatur quidem iste.,batch_002
+b0ae7334-08df-4a74-9265-3f26c7504b61,944ad695-13e6-4474-a6c3-28ca6afe5696,8143.41,COMPRA_NAO_RECONHECIDA,SOLICITADO,2026-07-25T23:19:00,Earum velit numquam sit.,batch_002
+941544c0-f60d-4c0f-bfd4-b589762ff885,602fa752-f10a-47e4-b9ee-7b6f768b40eb,10226.31,COMPRA_NAO_RECONHECIDA,SOLICITADO,2026-07-25T23:19:00,Temporibus adipisci ab aut necessitatibus.,batch_002
+30f4a9db-b6a4-41c0-aeb1-fe4b824472cf,b4c75eac-5c34-43c2-a6a4-443b276539d5,1652.65,COMPRA_NAO_RECONHECIDA,PROCESSADO,2026-07-24T02:44:57,Rem dolor veniam quibusdam animi ducimus.,batch_002
+10651cdd-70f6-4334-bfec-f1e887d75965,1c8808e9-deba-408f-9ead-8992ac64638c,17488.21,DUPLICIDADE,PROCESSADO,2026-07-25T23:19:00,Tempora exercitationem autem assumenda harum sequi quia.,batch_002
+fa59a603-9050-474b-9788-c8c151cc2cd7,30780573-9c99-478b-8a79-95b58de2e5bc,10563.81,DUPLICIDADE,NEGADO,2026-07-25T23:19:00,Labore voluptas quam necessitatibus.,batch_002
+dec46582-d0e1-4bc7-b51f-dcb5f0113fd7,00e53136-8383-49b7-ad9c-17fc732eaee3,12947.15,COMPRA_NAO_RECONHECIDA,NEGADO,2026-07-25T23:19:00,Autem et illum illum fuga quaerat culpa.,batch_002
+aaaeb88c-d8ee-4f2d-ad78-aa2269747959,5dc2bd6f-1014-47ea-896a-ccdd265885da,9340.19,CANCELAMENTO,NEGADO,2026-07-25T23:19:00,Minima nesciunt officia iusto rem ratione error.,batch_002
+40538f44-abc2-4ff9-a255-55d181cba0dc,f4e1c001-a1ba-4ba9-9232-8cb36d5bf404,10541.25,CANCELAMENTO,PROCESSADO,2026-07-25T22:14:17,Ipsa vitae a ut dolore.,batch_002
+57826c24-9d44-44d9-a829-94f1028084f7,d8037f7f-7f9b-4c76-a4b8-20bddfce5301,8933.38,CANCELAMENTO,NEGADO,2026-07-25T07:57:24,Odio inventore itaque quasi debitis fuga sit.,batch_002
+e6fcd274-9b4f-4fe9-b881-95ce14515242,6b2d5d58-9ebd-4a5d-89be-bf85dc95d6eb,9123.53,COMPRA_NAO_RECONHECIDA,SOLICITADO,2026-07-25T23:19:00,Sequi modi reiciendis quia veniam quam tenetur pariatur.,batch_002
+de8156f4-16e3-41ad-b559-7207ef13bcae,39ee3915-ecec-412e-9c89-4215b96696b7,4276.81,COMPRA_NAO_RECONHECIDA,NEGADO,2026-07-25T23:19:00,Quam magni tenetur suscipit nostrum incidunt voluptatum.,batch_002
+403d282b-3466-4faa-9a82-1bdf30db977a,a6e10484-2f62-4d7c-8bbf-8cf88f99dc7d,263.21,CANCELAMENTO,PROCESSADO,2026-07-24T01:19:16,Quia tempore quas assumenda.,batch_002
+4b092df6-4080-424c-bdbd-4765e58f949a,5e2b30b1-0ee6-4ddf-8373-246d6eecf7e0,7330.48,CANCELAMENTO,PROCESSADO,2026-07-25T23:19:00,Laudantium totam suscipit.,batch_002
+b150999c-11ce-4b19-b45b-f283ee1ce642,86fa00ca-d39c-4360-a2cf-ef52842bf793,561.3,COMPRA_NAO_RECONHECIDA,NEGADO,2026-07-25T23:19:00,Dolorum neque quas necessitatibus quis quae.,batch_002
+6e2eb258-c5c1-4348-ba45-1f1231adb29f,f8037450-5162-4674-a36f-16d79cd58b94,13351.44,DUPLICIDADE,NEGADO,2026-07-25T11:40:43,Nesciunt alias omnis facilis necessitatibus.,batch_002
+83cf0e98-b1be-47da-9ce9-8b35839ee4b5,f23e22ea-c92f-44a6-bc06-4049541bb3ee,2710.62,DUPLICIDADE,NEGADO,2026-07-25T14:17:52,Esse voluptatibus culpa blanditiis.,batch_002
+b645ffe9-2618-4c99-9e8c-e463f4ff8642,a3fba1b3-d8a8-4d87-950b-17ca3f22b00b,11656.92,PRODUTO_NAO_ENTREGUE,PROCESSADO,2026-07-23T23:28:47,Ut delectus officia expedita optio tempore consectetur.,batch_002
+5c3b4b5d-70e5-4ef3-b6b8-5ee6a626cf6a,7000bfd6-5731-45ed-8316-8ec0c26960ad,3324.09,CANCELAMENTO,PROCESSADO,2026-07-25T23:19:00,Magni neque necessitatibus.,batch_002
+2a4d08c8-aba5-4a06-986a-95909e551117,0f390656-e590-4c44-81f0-ceaf7b4c0594,10751.0,CANCELAMENTO,SOLICITADO,2026-07-22T14:31:43,Quae magni ex assumenda incidunt blanditiis.,batch_002
+986db1fc-5a8c-4988-a9ce-2b2861927e21,51cdcfa5-73e0-40cf-93b1-ac3be568f5e9,13351.74,DUPLICIDADE,SOLICITADO,2026-07-25T23:19:00,Aperiam dolorem explicabo quisquam natus voluptatibus.,batch_002
+aa7e0b26-ae5a-4ca0-a3c0-b835f1c2ac77,608c3368-675d-4bf4-ba40-00d73569d165,11874.2,DUPLICIDADE,PROCESSADO,2026-07-25T23:19:00,Velit iste ad dolore.,batch_002
+4721c25e-7dd2-44e1-a4b0-0f11b1019140,449949ff-72da-47f5-b14b-ca5f5384ae12,14184.1,PRODUTO_NAO_ENTREGUE,PROCESSADO,2026-07-25T23:19:00,Reprehenderit architecto amet a maiores consequatur sint enim.,batch_002
+cc0d5add-d80a-4984-88e4-d847bdbafb54,b806acc6-7d09-4264-8ee0-0888d41da11c,3925.84,COMPRA_NAO_RECONHECIDA,NEGADO,2026-07-21T11:27:10,Id molestiae porro facere laboriosam.,batch_002
+922d0dd9-02ac-445c-9f37-3be2dc51683c,0dc98418-7ea1-4deb-853a-f8934fba8d9d,2855.01,CANCELAMENTO,NEGADO,2026-07-25T23:19:00,Fugit harum voluptate quia amet labore odit.,batch_002
+de7740b5-8904-4f88-aa63-b7865e92e59c,eb2d9e89-36e2-4876-9d1b-9db2fe9c8c36,14498.39,DUPLICIDADE,NEGADO,2026-07-25T23:19:00,Similique mollitia minima mollitia.,batch_002
+6ad41b55-2437-4c52-8797-2ca5f7c201a6,b350d60c-5160-4d65-94be-39eb4fff7dfa,16001.03,CANCELAMENTO,PROCESSADO,2026-07-25T23:19:00,Facere maxime eum iste magni velit.,batch_002
+07054167-e39e-40f5-b05f-cf39f513ecfe,e3769b11-4c55-4bb0-bc73-8dede1f2bbd6,788.65,CANCELAMENTO,PROCESSADO,2026-07-25T23:19:00,Est magnam libero harum saepe temporibus adipisci.,batch_002
+a240eb73-2b9e-484d-9982-b5001904bc59,05d62c7a-03fb-479f-9998-de309280d46e,17470.69,CANCELAMENTO,SOLICITADO,2026-07-25T23:19:00,Asperiores ipsa exercitationem voluptates reiciendis.,batch_002
+b35af262-5b0d-436e-a051-038f3ad775d8,52955644-3751-4268-bc96-8e63a5bf4339,7234.66,CANCELAMENTO,SOLICITADO,2026-07-25T23:19:00,Minima cupiditate architecto occaecati consequatur magnam odit.,batch_002
+1fc5b7f0-e639-4b21-aa8d-ce35349b46af,1a262235-665b-459a-ab8b-38dd9c8417fa,16769.92,CANCELAMENTO,NEGADO,2026-07-25T23:19:00,Aut asperiores facere pariatur expedita.,batch_002
+c169ab93-9df6-4d1e-907a-93aca632ad23,45e02079-a2b4-46da-9044-ada6c33fb209,1758.35,COMPRA_NAO_RECONHECIDA,NEGADO,2026-07-25T23:19:00,Quia eum asperiores facere dolorem quasi.,batch_002
+2c40ab22-57b6-4b8d-9fd2-9c1163fa9bf8,b482d908-b910-4e16-9399-4911fcb52190,8454.81,DUPLICIDADE,PROCESSADO,2026-07-22T00:51:44,Magnam ex eveniet laborum.,batch_002
+95860234-c2f4-4e6f-b377-f596d570ea6a,9011f21f-d11b-4f2a-a0f6-c523c64fd72a,5626.57,DUPLICIDADE,NEGADO,2026-07-25T01:34:04,Mollitia delectus molestias.,batch_002
+ccd5393c-d568-4b50-81a5-a96978646568,d48cdc33-ffa0-4885-bef7-336d30ca02a7,5358.16,COMPRA_NAO_RECONHECIDA,NEGADO,2026-07-25T19:42:17,Repellat sunt voluptatem quae eius.,batch_002
