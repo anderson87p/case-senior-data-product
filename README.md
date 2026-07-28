@@ -17,7 +17,15 @@ O pipeline processa seis entidades sintéticas:
 
 São gerados três lotes para representar uma carga inicial, atualizações CDC e cenários de late arrival, duplicidade, registros inválidos e schema evolution.
 
-## Arquitetura
+## Arquitetura Geral
+
+A figura abaixo apresenta uma visão consolidada da arquitetura implementada, destacando as camadas do Lakehouse, os principais componentes da plataforma e o fluxo completo de processamento dos dados.
+
+![Arquitetura Geral](docs/images/architecture_overview.png)
+
+A visão acima resume toda a solução. O diagrama a seguir detalha o fluxo lógico de processamento implementado ao longo do pipeline.
+
+## Arquitetura Lógica
 
 ```mermaid
 flowchart LR
@@ -121,6 +129,12 @@ Aplica regras de negócio e qualidade:
 - validações de referência e quarentena complementar.
 
 ### Gold
+
+## Modelo Dimensional
+
+A camada Gold implementa um modelo estrela composto por dimensões conformadas, uma tabela fato de transações e três Data Products derivados para consumo analítico e preparação de features para Machine Learning.
+
+![Modelo Dimensional](docs/images/gold_dimensional_model.png)
 
 Entrega um modelo dimensional e produtos de dados voltados ao consumo analítico.
 
