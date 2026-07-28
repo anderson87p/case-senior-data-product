@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/><text x="40" y="48" font-family="Arial" font-size="28" font-weight="700" fill="#0f172a">Tratamento de CDC, SCD2 e Late Arrival</text>
+<rect x="30" y="160" width="170" height="90" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="115.0" y="194.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Evento recebido</text>
+<text x="115.0" y="216.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">I / U / D</text>
+<rect x="240" y="160" width="180" height="90" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="330.0" y="194.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Validação e</text>
+<text x="330.0" y="216.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">normalização</text>
+<rect x="460" y="160" width="180" height="90" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="550.0" y="194.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Deduplicação por</text>
+<text x="550.0" y="216.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">chave + timestamp</text>
+<rect x="680" y="160" width="180" height="90" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="770.0" y="194.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Ordenação temporal</text>
+<text x="770.0" y="216.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Late Arrival</text>
+<rect x="900" y="90" width="240" height="90" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="1020.0" y="124.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Nova versão SCD2</text>
+<text x="1020.0" y="146.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">fecha versão anterior</text>
+<rect x="900" y="250" width="240" height="90" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="1020.0" y="284.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Delete lógico</text>
+<text x="1020.0" y="306.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">registro_excluido = true</text>
+<line x1="200" y1="205" x2="240" y2="205" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="420" y1="205" x2="460" y2="205" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="640" y1="205" x2="680" y2="205" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="860" y1="190" x2="900" y2="135" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="860" y1="220" x2="900" y2="295" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+</svg>

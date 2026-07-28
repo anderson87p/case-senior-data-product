@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/><text x="40" y="48" font-family="Arial" font-size="28" font-weight="700" fill="#0f172a">Fluxo de processamento por camada</text>
+<rect x="40" y="150" width="180" height="100" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="130.0" y="189.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">LANDING</text>
+<text x="130.0" y="211.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Arquivos + metadados</text>
+<rect x="270" y="150" width="180" height="100" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="360.0" y="189.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">VALIDAÇÃO</text>
+<text x="360.0" y="211.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Contrato e domínios</text>
+<rect x="500" y="150" width="180" height="100" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="590.0" y="189.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">BRONZE</text>
+<text x="590.0" y="211.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Dados válidos rastreáveis</text>
+<rect x="730" y="150" width="180" height="100" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="820.0" y="189.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">SILVER</text>
+<text x="820.0" y="211.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Regras e histórico</text>
+<rect x="960" y="150" width="180" height="100" rx="14" fill="#f8fafc" stroke="#475569" stroke-width="2"/>
+<text x="1050.0" y="189.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">GOLD</text>
+<text x="1050.0" y="211.0" text-anchor="middle" font-family="Arial" font-size="15" fill="#0f172a">Consumo analítico</text>
+<line x1="220" y1="200" x2="270" y2="200" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="450" y1="200" x2="500" y2="200" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="680" y1="200" x2="730" y2="200" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="910" y1="200" x2="960" y2="200" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)"/>
+</svg>
