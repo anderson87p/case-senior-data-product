@@ -28,7 +28,7 @@
 # MAGIC - Tratar eventos recebidos fora de ordem.
 # MAGIC - Validar relacionamentos entre entidades.
 # MAGIC - Processar entidades transacionais.
-# MAGIC - Persistir as tabelas Silver em Delta Lake.
+# MAGIC - Persistir as tabelas Silver incrementalmente com Delta MERGE.
 # MAGIC
 # MAGIC ## Recursos implementados
 # MAGIC
@@ -73,6 +73,7 @@ from functools import reduce
 from pyspark.sql import DataFrame
 from pyspark.sql import functions as F
 from pyspark.sql.window import Window
+from delta.tables import DeltaTable
 
 CATALOG = spark.catalog.currentCatalog()
 
@@ -127,6 +128,21 @@ CDC_CONFIG = {
     }
 }
 
+SILVER_MERGE_CONFIG = {
+    "silver_clientes": ["cliente_id", "vigencia_inicio"],
+    "silver_contas": ["conta_id", "vigencia_inicio"],
+    "silver_cartoes": ["cartao_id", "vigencia_inicio"],
+    "silver_transacoes": ["transacao_id"],
+    "silver_eventos_risco": ["evento_risco_id"],
+    "silver_estornos": ["estorno_id"]
+}
+
+# Compatibilidade com Databricks Free Edition / Serverless:
+# a configuração global spark.databricks.delta.schema.autoMerge.enabled
+# não é disponibilizada nesse ambiente. Quando uma tabela for criada,
+# a evolução de schema é solicitada diretamente na operação de escrita
+# por meio de .option("mergeSchema", "true").
+
 print(f"Catálogo: {CATALOG}")
 print(f"Schema Silver: {SILVER_SCHEMA}")
 
@@ -167,6 +183,162 @@ def deduplicate_cdc_events(
         .filter(F.col("_cdc_duplicate_rank") == 1)
         .drop("_cdc_duplicate_rank")
     )
+
+
+def build_merge_condition(
+    merge_keys: list[str],
+    target_alias: str = "target",
+    source_alias: str = "source"
+) -> str:
+    """Monta uma condição null-safe para Delta MERGE."""
+
+    if not merge_keys:
+        raise ValueError(
+            "A configuração do MERGE deve possuir ao menos uma chave."
+        )
+
+    return " AND ".join(
+        f"{target_alias}.`{column}` <=> "
+        f"{source_alias}.`{column}`"
+        for column in merge_keys
+    )
+
+
+def build_change_condition(
+    columns: list[str],
+    ignored_columns: list[str] | None = None,
+    target_alias: str = "target",
+    source_alias: str = "source"
+) -> str:
+    """
+    Compara o conteúdo de origem e destino ignorando colunas voláteis.
+
+    Dessa forma, o mesmo lote reprocessado não gera update apenas porque
+    o timestamp técnico de processamento foi recalculado.
+    """
+
+    ignored = set(ignored_columns or [])
+    comparable_columns = [
+        column for column in columns
+        if column not in ignored
+    ]
+
+    if not comparable_columns:
+        return "false"
+
+    return " OR ".join(
+        f"NOT ({target_alias}.`{column}` <=> "
+        f"{source_alias}.`{column}`)"
+        for column in comparable_columns
+    )
+
+
+def validate_unique_merge_keys(
+    dataframe: DataFrame,
+    merge_keys: list[str],
+    table_name: str
+) -> None:
+    """Evita MERGE ambíguo quando a origem contém chaves duplicadas."""
+
+    duplicated_keys_df = (
+        dataframe
+        .groupBy(*merge_keys)
+        .count()
+        .filter(F.col("count") > 1)
+    )
+
+    if duplicated_keys_df.limit(1).count() > 0:
+        display(duplicated_keys_df.orderBy(F.col("count").desc()))
+        raise ValueError(
+            f"Origem com chaves de MERGE duplicadas em {table_name}: "
+            f"{merge_keys}"
+        )
+
+
+def persist_with_delta_merge(
+    dataframe: DataFrame,
+    table_name: str,
+    merge_keys: list[str]
+) -> dict:
+    """
+    Cria a tabela Delta na carga inicial e aplica MERGE nas demais.
+
+    Compatível com Databricks Free Edition / Serverless: não depende da
+    configuração global de autoMerge, que é bloqueada nesse ambiente.
+
+    A implementação evita DataFrame.persist()/cache, pois o compute
+    Serverless da Free Edition não oferece suporte ao comando PERSIST TABLE.
+    """
+
+    source_df = dataframe
+
+    validate_unique_merge_keys(
+        dataframe=source_df,
+        merge_keys=merge_keys,
+        table_name=table_name
+    )
+
+    source_count = source_df.count()
+    target_existed = spark.catalog.tableExists(table_name)
+
+    if not target_existed:
+        (
+            source_df.write
+            .format("delta")
+            .mode("errorifexists")
+            .option("mergeSchema", "true")
+            .saveAsTable(table_name)
+        )
+        operation = "INITIAL_LOAD"
+    else:
+        target_delta = DeltaTable.forName(spark, table_name)
+        merge_condition = build_merge_condition(merge_keys)
+        change_condition = build_change_condition(
+            columns=source_df.columns,
+            ignored_columns=["_silver_processing_timestamp"]
+        )
+
+        (
+            target_delta.alias("target")
+            .merge(
+                source_df.alias("source"),
+                merge_condition
+            )
+            .whenMatchedUpdateAll(
+                condition=change_condition
+            )
+            .whenNotMatchedInsertAll()
+            .execute()
+        )
+        operation = "MERGE"
+
+    target_df = spark.table(table_name)
+    target_count = target_df.count()
+
+    duplicated_target_keys = (
+        target_df
+        .groupBy(*merge_keys)
+        .count()
+        .filter(F.col("count") > 1)
+        .count()
+    )
+
+    if duplicated_target_keys > 0:
+        raise ValueError(
+            f"Foram encontradas chaves duplicadas no destino "
+            f"{table_name}: {merge_keys}"
+        )
+
+    return {
+        "table_name": table_name,
+        "operation": operation,
+        "merge_keys": ", ".join(merge_keys),
+        "source_count": source_count,
+        "target_count": target_count,
+        "duplicated_target_keys": duplicated_target_keys,
+        "status": "PASS"
+    }
+
 
 # COMMAND ----------
 
@@ -888,7 +1060,7 @@ print(
 
 # COMMAND ----------
 
-# DBTITLE 1,Persistência das tabelas dimensionais Silver
+# DBTITLE 1,Persistência incremental das tabelas Silver com Delta MERGE
 silver_tables = {
     "silver_clientes": silver_clientes_df,
     "silver_contas": silver_contas_df,
@@ -898,24 +1070,38 @@ silver_tables = {
     "silver_estornos": silver_estornos_validos_df
 }
 
+silver_merge_results = []
+
 for table_short_name, dataframe in silver_tables.items():
     table_name = (
         f"{CATALOG}.{SILVER_SCHEMA}."
         f"{table_short_name}"
     )
 
-    (
-        dataframe.write
-        .format("delta")
-        .mode("overwrite")
-        .option("overwriteSchema", True)
-        .saveAsTable(table_name)
+    merge_keys = SILVER_MERGE_CONFIG[table_short_name]
+
+    merge_result = persist_with_delta_merge(
+        dataframe=dataframe,
+        table_name=table_name,
+        merge_keys=merge_keys
     )
 
+    silver_merge_results.append(merge_result)
+
     print(
-        f"Tabela criada: {table_name} | "
-        f"Registros: {dataframe.count()}"
+        f"{merge_result['operation']}: {table_name} | "
+        f"Origem: {merge_result['source_count']} | "
+        f"Destino: {merge_result['target_count']} | "
+        f"Status: {merge_result['status']}"
     )
+
+silver_merge_results_df = spark.createDataFrame(
+    silver_merge_results
+)
+
+display(
+    silver_merge_results_df.orderBy("table_name")
+)
 
 # COMMAND ----------
 
@@ -1036,7 +1222,7 @@ display(
 # MAGIC - Tratamento de Late Arrival
 # MAGIC - Validações referenciais
 # MAGIC - Processamento das entidades transacionais
-# MAGIC - Persistência em Delta Lake
+# MAGIC - Persistência incremental e idempotente com Delta MERGE
 # MAGIC
 # MAGIC As tabelas Silver estão preparadas para a construção do modelo dimensional e dos produtos analíticos da camada Gold.
 # MAGIC
