@@ -86,6 +86,10 @@
 **Decisão**
 
 Substituir a estratégia de persistência baseada em overwrite por Delta MERGE na camada Silver.
+A camada Gold permanece com reconstrução completa porque seus objetos são derivados
+da visão consolidada da Silver e incluem agregações e produtos analíticos. Para o volume
+do case, essa abordagem simplifica a consistência e a reconciliação. Em produção, a
+estratégia seria avaliada por objeto, considerando volume, particionamento e padrão de consumo.
 
 **Motivação**
 
