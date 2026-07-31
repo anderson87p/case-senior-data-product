@@ -67,11 +67,11 @@
 
 ## ADR-008 — Notebooks como unidade de entrega
 
-**Decisão:** preservar a implementação principal em notebooks Databricks exportados como Source.
+**Decisão:** preservar a implementação principal em notebooks Databricks exportados como **Source**, complementados por módulos Python reutilizáveis (`src/`) e testes automatizados (`tests/`).
 
-**Motivação:** compatibilidade direta com o ambiente de execução e transparência das etapas do desafio.
+**Motivação:** manter compatibilidade direta com o ambiente Databricks, sem abrir mão da reutilização de código e da testabilidade das regras de negócio.
 
-**Trade-off:** menor modularização do que um pacote Spark completo. Em produção, regras reutilizáveis seriam extraídas para módulos e implantadas por CI/CD.
+**Trade-off:** parte da lógica permanece distribuída entre notebooks e módulos Python, porém essa abordagem equilibra a experiência de desenvolvimento no Databricks com práticas modernas de engenharia de software.
 
 ## ADR-009 — Dados sintéticos reprodutíveis
 
@@ -80,3 +80,65 @@
 **Motivação:** permitir repetibilidade dos cenários e resultados comparáveis.
 
 **Trade-off:** dados sintéticos não representam toda a diversidade e distribuição de um ambiente financeiro real.
+
+## ADR-010 — Persistência Incremental com Delta MERGE
+
+**Decisão**
+
+Substituir a estratégia de persistência baseada em overwrite por Delta MERGE na camada Silver.
+
+**Motivação**
+
+Durante a evolução do case, a estratégia inicial baseada em sobrescrita foi substituída por uma abordagem incremental utilizando Delta MERGE, aproximando a implementação de cenários encontrados em ambientes produtivos.
+
+A nova estratégia permite:
+
+- cargas incrementais;
+- reprocessamentos seguros;
+- preservação do histórico SCD Type 2;
+- redução de escrita desnecessária;
+- idempotência.
+
+**Trade-off**
+
+A implementação exige maior complexidade de desenvolvimento quando comparada ao overwrite, porém proporciona maior eficiência operacional, melhor governança e comportamento consistente em reexecuções.
+
+## ADR-011 — Estratégia de Testes Automatizados
+
+**Decisão**
+
+Adicionar uma suíte de testes automatizados para validar as principais regras de negócio implementadas na camada Silver.
+
+A estratégia é composta por duas abordagens complementares:
+
+- testes unitários locais utilizando pytest;
+- notebook Databricks para validação integrada das transformações.
+
+**Motivação**
+
+Garantir que futuras alterações não comprometam regras críticas do pipeline.
+
+Entre as regras cobertas estão:
+
+- CDC;
+- SCD Type 2;
+- deduplicação;
+- late arrival;
+- delete lógico;
+- quarentena;
+- integridade referencial;
+- idempotência da estratégia de MERGE.
+
+**Resultados**
+
+Execução local:
+
+- 12 testes aprovados.
+
+Execução Databricks:
+
+- 16 validações aprovadas.
+
+**Trade-off**
+
+Maior esforço de manutenção da suíte de testes, compensado pelo aumento da confiabilidade, facilidade de evolução e redução do risco de regressões.
