@@ -1,4 +1,4 @@
-# Case Técnico — Senior Data Engineer | Data Product Financeiro
+#Senior Data Engineer | Data Product Financeiro
 
 Projeto de engenharia de dados desenvolvido em **Databricks Free Edition** para simular e processar dados financeiros por meio de uma arquitetura **Medallion (Landing, Bronze, Silver e Gold)**.
 
