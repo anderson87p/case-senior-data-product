@@ -1,4 +1,4 @@
-#Senior Data Engineer | Data Product Financeiro
+#Databricks Senior Data Engineering | Data Product Financeiro
 
 Projeto de engenharia de dados desenvolvido em **Databricks Free Edition** para simular e processar dados financeiros por meio de uma arquitetura **Medallion (Landing, Bronze, Silver e Gold)**.
 
